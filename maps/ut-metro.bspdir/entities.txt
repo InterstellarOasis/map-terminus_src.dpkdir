@@ -1,0 +1,1343 @@
+{
+"classname" "worldspawn"
+"_minlight" "5"
+"_lightmapscale" "0.5"
+}
+{
+"classname" "info_player_start"
+"origin" "1688 3988 26"
+"angle" "180"
+}
+{
+"classname" "target_speaker"
+"origin" "1260 144 -68"
+"noise" "metrosound/fire.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "1024 2776 124"
+"noise" "metrosound/tunnel.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "1024 1656 124"
+"noise" "metrosound/tunnel.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "1024 664 124"
+"noise" "metrosound/tunnel.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "1024 -72 124"
+"noise" "metrosound/tunnel.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "-192 -1544 124"
+"noise" "metrosound/tunnel.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "1228 2016 -68"
+"noise" "metrosound/fire.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "936 5040 -8"
+"noise" "metrosound/fire.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "920 4992 20"
+"noise" "metrosound/fire.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "324 352 -344"
+"noise" "metrosound/water.wav"
+"spawnflags" "1"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1728 -1192 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1728 -1240 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1568 -1920 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1520 -1920 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1880 -948 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1880 -996 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-2156 -1000 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-2204 -1000 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-2052 -624 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-2004 -624 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "928 4208 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "928 3792 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "928 4288 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "928 4944 30"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "880 4880 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "-1.40334e-014"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "880 4112 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "-1.40334e-014"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "976 3888 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "976 4384 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "976 4608 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "880 4608 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "-1.40334e-014"
+}
+{
+"classname" "target_speaker"
+"origin" "584 2248 -156"
+"noise" "metrosound/steam.wav"
+"spawnflags" "1"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1776 -1920 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1728 -1920 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "target_speaker"
+"origin" "-896 -2384 -296"
+"noise" "metrosound/fire.wav"
+"spawnflags" "1"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1728 -2072 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "180"
+}
+{
+"classname" "target_speaker"
+"origin" "-2848 -1472 -80"
+"noise" "metrosound/fire.wav"
+"spawnflags" "1"
+"angle" "-90"
+}
+{
+"classname" "team_CTF_redflag"
+"origin" "-1344 -1616 -88"
+"angle" "90"
+}
+{
+"classname" "info_player_intermission"
+"origin" "1032 2744 16"
+"angle" "-90"
+}
+{
+"classname" "team_CTF_blueflag"
+"origin" "1392 3584 24"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-2072 -1088 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-2024 -1088 -88"
+"team" "red"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "trigger_hurt"
+"dmg" "2"
+"model" "*1"
+}
+{
+"classname" "trigger_hurt"
+"dmg" "2"
+"model" "*2"
+}
+{
+"classname" "trigger_hurt"
+"dmg" "2"
+"model" "*3"
+}
+{
+"classname" "trigger_hurt"
+"dmg" "2"
+"model" "*4"
+}
+{
+"classname" "func_rotating"
+"speed" "19"
+"origin" "416 224 474"
+"model" "*5"
+}
+{
+"classname" "func_rotating"
+"speed" "20"
+"origin" "224 224 474"
+"model" "*6"
+}
+{
+"classname" "info_ut_bombsite"
+"origin" "-192 256 -232"
+}
+{
+"classname" "func_rotating"
+"spawnflags" "8"
+"speed" "-3"
+"origin" "1023 3076 288"
+"model" "*7"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1660 4556 24"
+"team" "blue"
+"g_gametype" "3,5,6,7,8"
+"angle" "-90"
+}
+{
+"classname" "info_ut_bombsite"
+"origin" "992 848 -72"
+}
+{
+"classname" "target_speaker"
+"origin" "1740 4456 220"
+"noise" "metrosound/radio.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "396 4024 220"
+"noise" "metrosound/radio.wav"
+"spawnflags" "1"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "384 2016 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "384 2080 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "384 2144 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "384 2208 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "384 2272 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "384 2336 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "384 2400 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "384 2464 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "448 2528 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "448 1952 -232"
+"g_gametype" "4"
+"team" "red"
+"group" "A"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "592 -608 -56"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "648 -608 -56"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "704 -608 -56"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "544 -656 -56"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-45"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "496 -704 -56"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-45"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "448 -752 -56"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-45"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "400 -800 -56"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-45"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "304 -896 -32"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-45"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "256 -944 -32"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-45"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "208 -992 -32"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-45"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "160 -1040 -40"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-45"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "168 -1104 -56"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-1.40334e-014"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "168 -1168 -56"
+"g_gametype" "4"
+"team" "blue"
+"group" "A"
+"angle" "-1.40334e-014"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1576 2496 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1576 2544 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1576 2592 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1664 2616 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1832 2576 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1832 2528 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1832 2480 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1832 2432 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1624 2168 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1576 2168 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1592 2376 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "-1.40334e-014"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1824 2240 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1824 2368 24"
+"g_gametype" "4"
+"team" "red"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-96 624 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-96 576 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-96 528 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-96 352 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-96 304 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-96 256 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-96 208 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-608 96 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-480 96 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-520 96 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-144 152 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-192 152 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-440 96 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-656 96 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-704 96 -232"
+"g_gametype" "4"
+"team" "blue"
+"group" "B"
+"angle" "90"
+}
+{
+"classname" "target_location"
+"origin" "-1304 -1616 -24"
+"message" "Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-896 -704 -216"
+"message" "Line C : Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-1664 -896 40"
+"message" "Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-1920 -1536 40"
+"message" "Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-1856 -2048 40"
+"message" "Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-640 -1600 40"
+"message" "Line B :  Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-64 -1536 40"
+"message" "Line B :  Tunnel end"
+}
+{
+"classname" "target_location"
+"origin" "992 -608 40"
+"message" "Line B"
+}
+{
+"classname" "target_location"
+"origin" "1088 448 40"
+"message" "Line B"
+}
+{
+"classname" "target_location"
+"origin" "64 448 -152"
+"message" "Orange staircases"
+}
+{
+"classname" "target_location"
+"origin" "576 448 8"
+"message" "Orange staircases"
+}
+{
+"classname" "target_location"
+"origin" "416 96 -408"
+"message" "Orange staircases"
+}
+{
+"classname" "target_location"
+"origin" "320 352 -408"
+"message" "Orange staircases"
+}
+{
+"classname" "target_location"
+"origin" "320 352 -152"
+"message" "Orange staircases"
+}
+{
+"classname" "target_location"
+"origin" "320 352 40"
+"message" "Orange staircases"
+}
+{
+"classname" "target_location"
+"origin" "416 -96 -408"
+"message" "Large sewer"
+}
+{
+"classname" "target_location"
+"origin" "192 -288 -408"
+"message" "Large sewer"
+}
+{
+"classname" "target_location"
+"origin" "-32 -448 -408"
+"message" "Large sewer"
+}
+{
+"classname" "target_location"
+"origin" "-32 -912 -408"
+"message" "Large sewer"
+}
+{
+"classname" "target_location"
+"origin" "-32 -1216 -408"
+"message" "Large sewer"
+}
+{
+"classname" "target_location"
+"origin" "-512 -912 -216"
+"message" "Large sewer"
+}
+{
+"classname" "target_location"
+"origin" "-288 -912 -328"
+"message" "Large sewer"
+}
+{
+"classname" "target_location"
+"origin" "256 -1440 40"
+"message" "Line B : Pillar"
+}
+{
+"classname" "target_location"
+"origin" "704 -1216 40"
+"message" "Line B : Pillar"
+}
+{
+"classname" "target_location"
+"origin" "960 -832 40"
+"message" "Line B : Pillar"
+}
+{
+"classname" "target_location"
+"origin" "576 -768 -24"
+"message" "Line B : Pillar"
+}
+{
+"classname" "target_location"
+"origin" "256 -1120 -24"
+"message" "Line B : Pillar"
+}
+{
+"classname" "target_location"
+"origin" "544 352 -544"
+"message" "Orange staircases"
+}
+{
+"classname" "target_location"
+"origin" "688 352 -544"
+"message" "Little sewer"
+}
+{
+"classname" "target_location"
+"origin" "896 352 -512"
+"message" "Little sewer"
+}
+{
+"classname" "target_location"
+"origin" "1280 352 -416"
+"message" "Little sewer"
+}
+{
+"classname" "target_location"
+"origin" "1472 352 -416"
+"message" "Little sewer"
+}
+{
+"classname" "target_location"
+"origin" "1696 512 -416"
+"message" "Little sewer"
+}
+{
+"classname" "target_location"
+"origin" "1696 832 -416"
+"message" "Little sewer"
+}
+{
+"classname" "target_location"
+"origin" "1024 -304 40"
+"message" "Line B :  Detached car"
+}
+{
+"classname" "target_location"
+"origin" "1088 96 40"
+"message" "Line B :  Detached car"
+}
+{
+"classname" "target_location"
+"origin" "1056 576 40"
+"message" "Line B :  Crash subway's"
+}
+{
+"classname" "target_location"
+"origin" "1056 768 40"
+"message" "Line B :  Crash subway's"
+}
+{
+"classname" "target_location"
+"origin" "1056 896 40"
+"message" "Line B :  Crash subway's"
+}
+{
+"classname" "target_location"
+"origin" "1056 1152 40"
+"message" "Line B :  Crash subway's"
+}
+{
+"classname" "target_location"
+"origin" "1056 1408 40"
+"message" "Line B :  Crash subway's"
+}
+{
+"classname" "target_location"
+"origin" "1056 1728 40"
+"message" "Line B :  Crash subway's"
+}
+{
+"classname" "target_location"
+"origin" "1056 1984 40"
+"message" "Line B :  Crash subway's"
+}
+{
+"classname" "target_location"
+"origin" "1056 2304 40"
+"message" "Line B :  Tunnel beginning"
+}
+{
+"classname" "target_location"
+"origin" "1056 2688 40"
+"message" "Line B :  Tunnel entrance"
+}
+{
+"classname" "target_location"
+"origin" "1040 2880 8"
+"message" "Line B :  Tunnel entrance"
+}
+{
+"classname" "target_location"
+"origin" "1056 3200 8"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "544 3200 72"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "1616 3136 72"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "1776 2720 40"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "2048 2720 -88"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "2048 3552 40"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "2048 4448 40"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "1616 3136 -200"
+"message" "Corridor linking"
+}
+{
+"classname" "target_location"
+"origin" "928 3136 -200"
+"message" "Corridor linking"
+}
+{
+"classname" "target_location"
+"origin" "1216 3136 -200"
+"message" "Corridor linking"
+}
+{
+"classname" "target_location"
+"origin" "448 3136 -200"
+"message" "Corridor linking"
+}
+{
+"classname" "target_location"
+"origin" "576 3008 -200"
+"message" "Corridor linking"
+}
+{
+"classname" "target_location"
+"origin" "880 3200 24"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "1392 3200 24"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "576 2752 -200"
+"message" "Room's stockage"
+}
+{
+"classname" "target_location"
+"origin" "576 2496 -200"
+"message" "Room's stockage"
+}
+{
+"classname" "target_location"
+"origin" "576 1792 -200"
+"message" "Tag corridor"
+}
+{
+"classname" "target_location"
+"origin" "576 1472 -200"
+"message" "Tag corridor"
+}
+{
+"classname" "target_location"
+"origin" "576 1088 -232"
+"message" "Tag corridor"
+}
+{
+"classname" "target_location"
+"origin" "576 1920 -200"
+"message" "Room's stockage"
+}
+{
+"classname" "target_location"
+"origin" "576 960 -232"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "320 896 -232"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "0 896 -232"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "928 896 -232"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "1184 896 -232"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "1472 928 -232"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "1824 1120 -232"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "2016 1440 -232"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "2048 2016 -200"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "2048 2592 -104"
+"message" "Line C"
+}
+{
+"classname" "target_location"
+"origin" "-160 896 -232"
+"message" "Line C : Curved rooms"
+}
+{
+"classname" "target_location"
+"origin" "-896 128 -232"
+"message" "Line C : Curved rooms"
+}
+{
+"classname" "target_location"
+"origin" "-288 256 -232"
+"message" "Line C : Curved rooms"
+}
+{
+"classname" "target_location"
+"origin" "-448 416 -232"
+"message" "Line C : Curved rooms"
+}
+{
+"classname" "target_location"
+"origin" "-96 448 -168"
+"message" "Line C : Curved rooms"
+}
+{
+"classname" "target_location"
+"origin" "-896 -64 -232"
+"message" "Line C : Curved rooms"
+}
+{
+"classname" "target_location"
+"origin" "-512 -1600 40"
+"message" "Line B :  Tunnel end"
+}
+{
+"classname" "target_location"
+"origin" "1776 2624 40"
+"message" "Public toilets"
+}
+{
+"classname" "target_location"
+"origin" "1776 2432 40"
+"message" "Public toilets"
+}
+{
+"classname" "target_location"
+"origin" "1552 2208 40"
+"message" "Public toilets"
+}
+{
+"classname" "target_location"
+"origin" "1504 2208 40"
+"message" "Corridor rescues"
+}
+{
+"classname" "target_location"
+"origin" "1472 1840 40"
+"message" "Corridor rescues"
+}
+{
+"classname" "target_location"
+"origin" "1408 1816 -40"
+"message" "Corridor rescues"
+}
+{
+"classname" "target_location"
+"origin" "1336 1816 -40"
+"message" "Line B :  Crash subway's"
+}
+{
+"classname" "target_location"
+"origin" "1328 3968 24"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "624 4224 24"
+"message" "Metro Station"
+}
+{
+"classname" "target_location"
+"origin" "-896 -1088 -216"
+"message" "Line C : Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-896 -1792 -216"
+"message" "Line C : Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-896 -1472 -216"
+"message" "Line C : Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-896 -2176 -216"
+"message" "Line C : Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-704 -912 -216"
+"message" "Line C : Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-1088 -704 -216"
+"message" "Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-1088 -2048 -216"
+"message" "Terrorists hideout"
+}
+{
+"classname" "target_location"
+"origin" "-960 -1600 -88"
+"message" "Line B :  Terrorists hideout"
+}
+{
+"classname" "trigger_hurt"
+"dmg" "2"
+"model" "*8"
+}
+{
+"classname" "target_speaker"
+"origin" "448 -904 124"
+"noise" "metrosound/tunnel.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "-2624 -1544 60"
+"noise" "metrosound/tunnel.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "-1408 -968 252"
+"noise" "metrosound/tunnel.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "-1664 -1800 252"
+"noise" "metrosound/tunnel.wav"
+"spawnflags" "1"
+}
+{
+"classname" "team_CAH_capturepoint"
+"origin" "-192 256 -240"
+}
+{
+"classname" "team_CAH_capturepoint"
+"origin" "992 848 -80"
+}
+{
+"classname" "team_CAH_capturepoint"
+"origin" "320 352 -584"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1660 4556 24"
+"g_gametype" "0,1"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "928 3792 24"
+"g_gametype" "0,1"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1564 2316 24"
+"g_gametype" "0,1"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "400 1952 -232"
+"g_gametype" "0,1"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-192 152 -232"
+"g_gametype" "0,1"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-32 -1216 -480"
+"g_gametype" "0,1"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1536 -1056 -232"
+"g_gametype" "0,1"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-1520 -1920 -88"
+"g_gametype" "0,1"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "624 -608 -56"
+"g_gametype" "0,1"
+"angle" "-90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "-688 -1904 -272"
+"g_gametype" "0,1"
+"angle" "180"
+}
