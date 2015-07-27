@@ -20,3 +20,8 @@ Contributor
 -----------
 
 * Thomas “illwieckz” Debesse <dev@illwieckz.net>
+
+Extra credits
+-------------
+
+This map uses some models by Black Rayne Studios <blackraynestudios@gmail.com>.
