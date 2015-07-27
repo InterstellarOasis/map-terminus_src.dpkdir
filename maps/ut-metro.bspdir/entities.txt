@@ -4,111 +4,111 @@
 "_lightmapscale" "0.5"
 }
 {
-"classname" "info_player_start"
+"classname" "pos_player_spawn"
 "origin" "1688 3988 26"
-"angle" "180"
+"yaw" "180"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "1260 144 -68"
 "noise" "sound/metro/fire"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "1024 2776 124"
 "noise" "sound/metro/tunnel"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "1024 1656 124"
 "noise" "sound/metro/tunnel"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "1024 664 124"
 "noise" "sound/metro/tunnel"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "1024 -72 124"
 "noise" "sound/metro/tunnel"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-192 -1544 124"
 "noise" "sound/metro/tunnel"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "1228 2016 -68"
 "noise" "sound/metro/fire"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "936 5040 -8"
 "noise" "sound/metro/fire"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "920 4992 20"
 "noise" "sound/metro/fire"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "324 352 -344"
 "noise" "sound/metro/water"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "584 2248 -156"
 "noise" "sound/metro/steam"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-896 -2384 -296"
 "noise" "sound/metro/fire"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-2848 -1472 -80"
 "noise" "sound/metro/fire"
 "spawnflags" "1"
-"angle" "-90"
+"yaw" "-90"
 }
 {
-"classname" "info_player_intermission"
+"classname" "pos_player_intermission"
 "origin" "1032 2744 16"
-"angle" "-90"
+"yaw" "-90"
 }
 {
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 "dmg" "2"
 "model" "*1"
 }
 {
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 "dmg" "2"
 "model" "*2"
 }
 {
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 "dmg" "2"
 "model" "*3"
 }
 {
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 "dmg" "2"
 "model" "*4"
 }
@@ -132,542 +132,542 @@
 "model" "*7"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "1740 4456 220"
 "noise" "sound/metro/radio"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "396 4024 220"
 "noise" "sound/metro/radio"
 "spawnflags" "1"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-1304 -1616 -24"
 "message" "Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-896 -704 -216"
 "message" "Line C : Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-1664 -896 40"
 "message" "Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-1920 -1536 40"
 "message" "Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-1856 -2048 40"
 "message" "Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-640 -1600 40"
 "message" "Line B :  Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-64 -1536 40"
 "message" "Line B :  Tunnel end"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "992 -608 40"
 "message" "Line B"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1088 448 40"
 "message" "Line B"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "64 448 -152"
 "message" "Orange staircases"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 448 8"
 "message" "Orange staircases"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "416 96 -408"
 "message" "Orange staircases"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "320 352 -408"
 "message" "Orange staircases"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "320 352 -152"
 "message" "Orange staircases"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "320 352 40"
 "message" "Orange staircases"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "416 -96 -408"
 "message" "Large sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "192 -288 -408"
 "message" "Large sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-32 -448 -408"
 "message" "Large sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-32 -912 -408"
 "message" "Large sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-32 -1216 -408"
 "message" "Large sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-512 -912 -216"
 "message" "Large sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-288 -912 -328"
 "message" "Large sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "256 -1440 40"
 "message" "Line B : Pillar"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "704 -1216 40"
 "message" "Line B : Pillar"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "960 -832 40"
 "message" "Line B : Pillar"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 -768 -24"
 "message" "Line B : Pillar"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "256 -1120 -24"
 "message" "Line B : Pillar"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "544 352 -544"
 "message" "Orange staircases"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "688 352 -544"
 "message" "Little sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "896 352 -512"
 "message" "Little sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1280 352 -416"
 "message" "Little sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1472 352 -416"
 "message" "Little sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1696 512 -416"
 "message" "Little sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1696 832 -416"
 "message" "Little sewer"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1024 -304 40"
 "message" "Line B :  Detached car"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1088 96 40"
 "message" "Line B :  Detached car"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 576 40"
 "message" "Line B :  Crash subway's"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 768 40"
 "message" "Line B :  Crash subway's"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 896 40"
 "message" "Line B :  Crash subway's"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 1152 40"
 "message" "Line B :  Crash subway's"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 1408 40"
 "message" "Line B :  Crash subway's"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 1728 40"
 "message" "Line B :  Crash subway's"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 1984 40"
 "message" "Line B :  Crash subway's"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 2304 40"
 "message" "Line B :  Tunnel beginning"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 2688 40"
 "message" "Line B :  Tunnel entrance"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1040 2880 8"
 "message" "Line B :  Tunnel entrance"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1056 3200 8"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "544 3200 72"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1616 3136 72"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1776 2720 40"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "2048 2720 -88"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "2048 3552 40"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "2048 4448 40"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1616 3136 -200"
 "message" "Corridor linking"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "928 3136 -200"
 "message" "Corridor linking"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1216 3136 -200"
 "message" "Corridor linking"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "448 3136 -200"
 "message" "Corridor linking"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 3008 -200"
 "message" "Corridor linking"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "880 3200 24"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1392 3200 24"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 2752 -200"
 "message" "Room's stockage"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 2496 -200"
 "message" "Room's stockage"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 1792 -200"
 "message" "Tag corridor"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 1472 -200"
 "message" "Tag corridor"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 1088 -232"
 "message" "Tag corridor"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 1920 -200"
 "message" "Room's stockage"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "576 960 -232"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "320 896 -232"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "0 896 -232"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "928 896 -232"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1184 896 -232"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1472 928 -232"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1824 1120 -232"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "2016 1440 -232"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "2048 2016 -200"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "2048 2592 -104"
 "message" "Line C"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-160 896 -232"
 "message" "Line C : Curved rooms"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-896 128 -232"
 "message" "Line C : Curved rooms"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-288 256 -232"
 "message" "Line C : Curved rooms"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-448 416 -232"
 "message" "Line C : Curved rooms"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-96 448 -168"
 "message" "Line C : Curved rooms"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-896 -64 -232"
 "message" "Line C : Curved rooms"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-512 -1600 40"
 "message" "Line B :  Tunnel end"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1776 2624 40"
 "message" "Public toilets"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1776 2432 40"
 "message" "Public toilets"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1552 2208 40"
 "message" "Public toilets"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1504 2208 40"
 "message" "Corridor rescues"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1472 1840 40"
 "message" "Corridor rescues"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1408 1816 -40"
 "message" "Corridor rescues"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1336 1816 -40"
 "message" "Line B :  Crash subway's"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "1328 3968 24"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "624 4224 24"
 "message" "Metro Station"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-896 -1088 -216"
 "message" "Line C : Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-896 -1792 -216"
 "message" "Line C : Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-896 -1472 -216"
 "message" "Line C : Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-896 -2176 -216"
 "message" "Line C : Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-704 -912 -216"
 "message" "Line C : Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-1088 -704 -216"
 "message" "Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-1088 -2048 -216"
 "message" "Terrorists hideout"
 }
 {
-"classname" "target_location"
+"classname" "pos_location"
 "origin" "-960 -1600 -88"
 "message" "Line B :  Terrorists hideout"
 }
 {
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 "dmg" "2"
 "model" "*8"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "448 -904 124"
 "noise" "sound/metro/tunnel"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-2624 -1544 60"
 "noise" "sound/metro/tunnel"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-1408 -968 252"
 "noise" "sound/metro/tunnel"
 "spawnflags" "1"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-1664 -1800 252"
 "noise" "sound/metro/tunnel"
 "spawnflags" "1"
@@ -677,7 +677,7 @@
 "origin" "696 4008 64"
 }
 {
-"classname" "info_player_intermission"
+"classname" "pos_player_intermission"
 "origin" "1600 3904 112"
 }
 {
@@ -689,7 +689,7 @@
 "origin" "712 4112 72"
 }
 {
-"classname" "info_human_intermission"
+"classname" "pos_human_intermission"
 "origin" "552 3984 144"
 }
 {
@@ -705,6 +705,6 @@
 "origin" "-504 304 -200"
 }
 {
-"classname" "info_alien_intermission"
+"classname" "pos_alien_intermission"
 "origin" "-832 392 -168"
 }
