@@ -19,9 +19,9 @@ surfaceparm structural
 surfaceparm trans
 }
 
-textures/metro/ladderclip
+textures/terminus/ladderclip
 {
-	qer_editorimage textures/metro/clipmetal
+	qer_editorimage textures/terminus/clipmetal
 	qer_trans 0.50
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -33,9 +33,9 @@ textures/metro/ladderclip
 	surfaceparm trans
 }
 
-textures/metro/clipconcrete
+textures/terminus/clipconcrete
 {
-	qer_editorimage textures/metro/clipconcrete
+	qer_editorimage textures/terminus/clipconcrete
 	qer_trans 0.40
 	surfaceparm nodraw
 	surfaceparm nolightmap
@@ -46,9 +46,9 @@ textures/metro/clipconcrete
 	surfaceparm playerclip
 }
 
-textures/metro/clipmetal
+textures/terminus/clipmetal
 {
-	qer_editorimage textures/metro/clipmetal
+	qer_editorimage textures/terminus/clipmetal
 	qer_trans 0.40
 	surfaceparm nodraw
 	surfaceparm nolightmap
@@ -59,9 +59,9 @@ textures/metro/clipmetal
 	surfaceparm playerclip
 }
 
-textures/metro/weaponmetal
+textures/terminus/weaponmetal
 {
-	qer_editorimage textures/metro/weaponmetal
+	qer_editorimage textures/terminus/weaponmetal
 	qer_trans 0.40
 	surfaceparm nodraw
 	surfaceparm nolightmap
@@ -70,9 +70,9 @@ textures/metro/weaponmetal
 	surfaceparm playerclip
 }
 
-textures/metro/clipwood
+textures/terminus/clipwood
 {
-	qer_editorimage textures/metro/clipwood
+	qer_editorimage textures/terminus/clipwood
 	qer_trans 0.40
 	surfaceparm nodraw
 	surfaceparm nolightmap
@@ -83,9 +83,9 @@ textures/metro/clipwood
 	surfaceparm playerclip
 }
 
-textures/metro/weaponwood
+textures/terminus/weaponwood
 {
-	qer_editorimage textures/metro/weaponwood
+	qer_editorimage textures/terminus/weaponwood
 	qer_trans 0.40
 	surfaceparm nodraw
 	surfaceparm nolightmap
@@ -94,9 +94,9 @@ textures/metro/weaponwood
 	surfaceparm playerclip
 }
 
-textures/metro/weaponconcrete
+textures/terminus/weaponconcrete
 {
-	qer_editorimage textures/metro/weaponwood
+	qer_editorimage textures/terminus/weaponwood
 	qer_trans 0.40
 	surfaceparm nodraw
 	surfaceparm nolightmap
@@ -105,12 +105,12 @@ textures/metro/weaponconcrete
 	surfaceparm playerclip
 }
 
-textures/metro/metalbar
+textures/terminus/metalbar
 {
-	qer_editorimage textures/metro/metalbar
+	qer_editorimage textures/terminus/metalbar
 	surfaceparm nonsolid
 	{
-		map textures/metro/metalbar
+		map textures/terminus/metalbar
 	}
 	{
 	map $lightmap
@@ -119,13 +119,13 @@ textures/metro/metalbar
 	}
 }
 
-textures/metro/rail01
+textures/terminus/rail01
 {
-	qer_editorimage textures/metro/rail01
+	qer_editorimage textures/terminus/rail01
 	surfaceparm nonsolid
 	polygonOffset
 	{
-		map textures/metro/rail01
+		map textures/terminus/rail01
 	}
 	{
 	map $lightmap
@@ -134,9 +134,9 @@ textures/metro/rail01
 	}
 }
 
-textures/metro/escalator01
+textures/terminus/escalator01
 {
-  qer_editorimage textures/metro/escalator01_sens
+  qer_editorimage textures/terminus/escalator01_sens
 
   surfaceparm trans
   surfaceparm nonsolid
@@ -144,7 +144,7 @@ textures/metro/escalator01
   cull none
 
 	{ 
-		map textures/metro/escalator01
+		map textures/terminus/escalator01
 		rgbGen identity
 		tcMod Scroll .0 .14
 		rgbGen identity
@@ -156,16 +156,16 @@ textures/metro/escalator01
 	}
 }
 
-textures/metro/swat
+textures/terminus/swat
 {
-	qer_editorimage textures/metro/swat
+	qer_editorimage textures/terminus/swat
 	surfaceparm trans
 	surfaceparm lightfilter
 	surfaceparm nonsolid
 	cull none
 	
 	{ 
-		map textures/metro/swat
+		map textures/terminus/swat
 		rgbGen identity
 		rgbGen identity
 	}
@@ -176,12 +176,12 @@ textures/metro/swat
 	}
 }
 
-textures/metro/cable03
+textures/terminus/cable03
 {
-	qer_editorimage textures/metro/cable03
+	qer_editorimage textures/terminus/cable03
 	surfaceparm nonsolid
 	{
-		map textures/metro/cable03
+		map textures/terminus/cable03
 	}
 	{
 	map $lightmap
@@ -190,12 +190,12 @@ textures/metro/cable03
 	}
 }
 
-textures/metro/cable04
+textures/terminus/cable04
 {
-	qer_editorimage textures/metro/cable04
+	qer_editorimage textures/terminus/cable04
 	surfaceparm nonsolid
 	{
-		map textures/metro/cable04
+		map textures/terminus/cable04
 	}
 	{
 	map $lightmap
@@ -204,12 +204,12 @@ textures/metro/cable04
 	}
 }
 
-textures/metro/cable_m01_snow
+textures/terminus/cable_m01_snow
 {
-	qer_editorimage textures/metro/cable_m01_snow
+	qer_editorimage textures/terminus/cable_m01_snow
 	surfaceparm nonsolid
 	{
-		map textures/metro/cable_m01_snow
+		map textures/terminus/cable_m01_snow
 	}
 	{
 	map $lightmap
@@ -222,9 +222,9 @@ textures/metro/cable_m01_snow
 //	*      Lights	*
 //	*********************************************************
 
-textures/metro/light
+textures/terminus/light
 {
-	qer_editorimage textures/metro/whitelight
+	qer_editorimage textures/terminus/whitelight
 	surfaceparm nomarks
 	surfaceparm nolightmap
 	q3map_surfacelight 11000
@@ -235,19 +235,19 @@ textures/metro/light
 		rgbGen identity
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
-textures/metro/lightbig
+textures/terminus/lightbig
 {
-	qer_editorimage textures/metro/whitelight
+	qer_editorimage textures/terminus/whitelight
 	surfaceparm nomarks
 	surfaceparm nolightmap
 	q3map_surfacelight 22000
@@ -258,19 +258,19 @@ textures/metro/lightbig
 		rgbGen identity
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
-textures/metro/lightsmall
+textures/terminus/lightsmall
 {
-	qer_editorimage textures/metro/whitelight
+	qer_editorimage textures/terminus/whitelight
 	surfaceparm nomarks
 	surfaceparm nolightmap
 	q3map_surfacelight 9000
@@ -281,19 +281,19 @@ textures/metro/lightsmall
 		rgbGen identity
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
-textures/metro/lightmetro
+textures/terminus/lightmetro
 {
-	qer_editorimage textures/metro/whitelight
+	qer_editorimage textures/terminus/whitelight
 	surfaceparm nomarks
 	surfaceparm nolightmap
 	q3map_surfacelight 4000
@@ -304,19 +304,19 @@ textures/metro/lightmetro
 		rgbGen identity
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
-textures/metro/wellowlight
+textures/terminus/wellowlight
 {
-	qer_editorimage textures/metro/wellowlight
+	qer_editorimage textures/terminus/wellowlight
 	surfaceparm nomarks
 	surfaceparm nolightmap
 	q3map_surfacelight 18000
@@ -327,19 +327,19 @@ textures/metro/wellowlight
 		rgbGen identity
 	}
 	{
-		map textures/metro/wellowlight
+		map textures/terminus/wellowlight
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/wellowlight
+		map textures/terminus/wellowlight
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
-textures/metro/neonlight
+textures/terminus/neonlight
 {
-	qer_editorimage textures/metro/neonlight
+	qer_editorimage textures/terminus/neonlight
 	surfaceparm nomarks
 	surfaceparm nolightmap
 	q3map_surfacelight 20000
@@ -350,19 +350,19 @@ textures/metro/neonlight
 		rgbGen identity
 	}
 	{
-		map textures/metro/neonlight
+		map textures/terminus/neonlight
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/neonlight
+		map textures/terminus/neonlight
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
-textures/metro/lightbig
+textures/terminus/lightbig
 {
-	qer_editorimage textures/metro/whitelightbig
+	qer_editorimage textures/terminus/whitelightbig
 	surfaceparm nomarks
 	surfaceparm nolightmap
 	q3map_surfacelight 20000
@@ -373,27 +373,27 @@ textures/metro/lightbig
 		rgbGen identity
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/whitelight
+		map textures/terminus/whitelight
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
 
-textures/metro/button01
+textures/terminus/button01
 {
-	qer_editorimage textures/metro/button01
+	qer_editorimage textures/terminus/button01
 	nopicmip
 	{
-		map textures/metro/button01
+		map textures/terminus/button01
 		rgbgen identity
 	}
 	{
-		map textures/metro/button01_light
+		map textures/terminus/button01_light
 		blendfunc add
 	}
 	{
@@ -402,9 +402,9 @@ textures/metro/button01
 	}
 }
 
-textures/metro/pub
+textures/terminus/pub
 {
-	qer_editorimage textures/metro/pub
+	qer_editorimage textures/terminus/pub
 	surfaceparm nomarks
 	q3map_surfacelight 2000
 	q3map_lightsubdivide 128
@@ -415,19 +415,19 @@ textures/metro/pub
 		rgbGen identity
 	}
 	{
-		map textures/metro/pub
+		map textures/terminus/pub
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/pub
+		map textures/terminus/pub
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
-textures/metro/cacacolo
+textures/terminus/cacacolo
 {
-	qer_editorimage textures/metro/cacacolo
+	qer_editorimage textures/terminus/cacacolo
 	q3map_surfacelight 800
 	q3map_lightsubdivide 128
 	surfaceparm nonsolid
@@ -438,19 +438,19 @@ textures/metro/cacacolo
 		rgbGen identity
 	}
 	{
-		map textures/metro/cacacolo
+		map textures/terminus/cacacolo
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/neonlightpub
+		map textures/terminus/neonlightpub
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
-textures/metro/7up
+textures/terminus/7up
 {
-	qer_editorimage textures/metro/7up
+	qer_editorimage textures/terminus/7up
 	q3map_surfacelight 800
 	q3map_lightsubdivide 128
 	surfaceparm nonsolid
@@ -461,46 +461,19 @@ textures/metro/7up
 		rgbGen identity
 	}
 	{
-		map textures/metro/7up
+		map textures/terminus/7up
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/metro/neonlightpub
+		map textures/terminus/neonlightpub
 		blendfunc GL_ONE GL_ONE
 	}
 }
 
-textures/metro/mlabpub01
+textures/terminus/mlabpub01
 {
-	qer_editorimage textures/metro/mlabpub01
-	q3map_surfacelight 800
-	q3map_lightsubdivide 128
-	surfaceparm trans
-	surfaceparm nonsolid
-	surfaceparm nomarks
-	surfaceparm lightfilter
-	nopicmip
-	cull none
-
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/metro/mlabpub01
-		rgbGen identity
-		blendFunc GL_DST_COLOR GL_ZERO
-	}
-	{
-		map textures/metro/neonlightpub
-		blendfunc GL_ONE GL_ONE
-	}
-}
-
-textures/metro/mlabpub02
-{
-	qer_editorimage textures/metro/mlabpub02
+	qer_editorimage textures/terminus/mlabpub01
 	q3map_surfacelight 800
 	q3map_lightsubdivide 128
 	surfaceparm trans
@@ -515,15 +488,42 @@ textures/metro/mlabpub02
 		rgbGen identity
 	}
 	{
-		map textures/metro/mlabpub02
+		map textures/terminus/mlabpub01
+		rgbGen identity
+		blendFunc GL_DST_COLOR GL_ZERO
+	}
+	{
+		map textures/terminus/neonlightpub
+		blendfunc GL_ONE GL_ONE
+	}
+}
+
+textures/terminus/mlabpub02
+{
+	qer_editorimage textures/terminus/mlabpub02
+	q3map_surfacelight 800
+	q3map_lightsubdivide 128
+	surfaceparm trans
+	surfaceparm nonsolid
+	surfaceparm nomarks
+	surfaceparm lightfilter
+	nopicmip
+	cull none
+
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/terminus/mlabpub02
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 }
 
-textures/metro/exit
+textures/terminus/exit
 {
-	qer_editorimage textures/metro/exit
+	qer_editorimage textures/terminus/exit
 	q3map_surfacelight 1200
 	q3map_lightsubdivide 128
 	surfaceparm trans
@@ -539,7 +539,7 @@ textures/metro/exit
 		rgbGen identity
 	}
 	{
-		map textures/metro/exit
+		map textures/terminus/exit
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
@@ -549,14 +549,14 @@ textures/metro/exit
 //	*      Fx	*
 //	*********************************************************
 
-textures/metro/glass
+textures/terminus/glass
 {
-	qer_editorimage textures/metro/tinfx3_glass
+	qer_editorimage textures/terminus/tinfx3_glass
 	qer_trans 0.5
 	surfaceparm nolightmap
 	surfaceparm trans
 	{
-		map textures/metro/tinfx3_glass
+		map textures/terminus/tinfx3_glass
 		tcGen environment
 		blendfunc GL_ONE GL_ONE
 		rgbGen identity
@@ -568,14 +568,14 @@ textures/metro/glass
 	}
 }
 
-textures/metro/glass2
+textures/terminus/glass2
 {
-	qer_editorimage textures/metro/tinfx3_glass2
+	qer_editorimage textures/terminus/tinfx3_glass2
 	qer_trans 0.5
 	surfaceparm nolightmap
 	surfaceparm trans
 	{
-		map textures/metro/tinfx3_glass2
+		map textures/terminus/tinfx3_glass2
 		tcGen environment
 		blendfunc GL_ONE GL_ONE
 		rgbGen identity
@@ -587,12 +587,12 @@ textures/metro/glass2
 	}
 }
 
-textures/metro/metal07
+textures/terminus/metal07
 {
-	qer_editorimage textures/metro/metal07
+	qer_editorimage textures/terminus/metal07
 	cull disable
 	{
-		map textures/metro/metal07
+		map textures/terminus/metal07
 	}
 	{
 		map $lightmap
@@ -601,15 +601,15 @@ textures/metro/metal07
 	}
 }
 
-textures/metro/metal08
+textures/terminus/metal08
 {
-	qer_editorimage textures/metro/metal08
+	qer_editorimage textures/terminus/metal08
 	cull disable
 	{
-		map textures/metro/metal08
+		map textures/terminus/metal08
 	}
 	{
-		map textures/metro/tinfx3_metal
+		map textures/terminus/tinfx3_metal
 		tcGen environment
 		blendfunc GL_ONE GL_ONE
 		rgbGen identity
@@ -621,15 +621,15 @@ textures/metro/metal08
 	}
 }
 
-textures/metro/sewer01
+textures/terminus/sewer01
 {
-	qer_editor_image textures/metro/sewer01
+	qer_editor_image textures/terminus/sewer01
 	qer_trans 0.90
 	cull disable
 	surfaceparm lightfilter
 	polygonOffset
 	{
-		map textures/metro/sewer01
+		map textures/terminus/sewer01
 		alphaFunc GE128
 	}
 	{
@@ -640,14 +640,14 @@ textures/metro/sewer01
 	}
 }
 
-textures/metro/fence
+textures/terminus/fence
 {
-	qer_editor_image textures/metro/fence
+	qer_editor_image textures/terminus/fence
 	qer_trans 0.40
 	nopicmip
 	surfaceparm trans
 	{
-		map textures/metro/fence
+		map textures/terminus/fence
 		alphaFunc GE128
 	}
 	{
@@ -658,14 +658,14 @@ textures/metro/fence
 	}
 }
 
-textures/metro/fence02
+textures/terminus/fence02
 {
-	qer_editor_image textures/metro/fence02
+	qer_editor_image textures/terminus/fence02
 	qer_trans 0.40
 	nopicmip
 	surfaceparm lightfilter
 	{
-		map textures/metro/fence02
+		map textures/terminus/fence02
 		alphaFunc GE128
 	}
 	{
@@ -676,14 +676,14 @@ textures/metro/fence02
 	}
 }
 
-textures/metro/fence03
+textures/terminus/fence03
 {
-	qer_editor_image textures/metro/fence03
+	qer_editor_image textures/terminus/fence03
 	qer_trans 0.40
 	nopicmip
 	surfaceparm lightfilter
 	{
-		map textures/metro/fence03
+		map textures/terminus/fence03
 		alphaFunc GE128
 	}
 	{
@@ -694,14 +694,14 @@ textures/metro/fence03
 	}
 }
 
-textures/metro/fence04
+textures/terminus/fence04
 {
-	qer_editor_image textures/metro/fence04
+	qer_editor_image textures/terminus/fence04
 	qer_trans 0.40
 	nopicmip
 	surfaceparm lightfilter
 	{
-		map textures/metro/fence04
+		map textures/terminus/fence04
 		alphaFunc GE128
 	}
 	{
@@ -712,14 +712,14 @@ textures/metro/fence04
 	}
 }
 
-textures/metro/leave01
+textures/terminus/leave01
 {
-	qer_editor_image textures/metro/leave01
+	qer_editor_image textures/terminus/leave01
 	qer_trans 0.40
 	cull disable
 	surfaceparm lightfilter
 	{
-		map textures/metro/leave01
+		map textures/terminus/leave01
 		alphaFunc GE128
 	}
 	{
@@ -731,9 +731,9 @@ textures/metro/leave01
 }
 
 
-textures/metro/rock01
+textures/terminus/rock01
 {
-	qer_editorimage textures/metro/rock01
+	qer_editorimage textures/terminus/rock01
 	
 	q3map_nonplanar
 	q3map_shadeAngle 120
@@ -743,7 +743,7 @@ textures/metro/rock01
 		rgbGen identity
 	}
 	{
-		map textures/metro/rock01
+		map textures/terminus/rock01
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
@@ -753,9 +753,9 @@ textures/metro/rock01
 //	*      Vegetal	*
 //	*********************************************************
 
-textures/metro/tree01
+textures/terminus/tree01
 {
-	qer_editor_image textures/metro/tree01
+	qer_editor_image textures/terminus/tree01
 	qer_trans 0.40
 	cull disable
 	surfaceparm lightfilter
@@ -763,7 +763,7 @@ textures/metro/tree01
 	
 	deformVertexes wave 32 sin .6 .6 0 .8
 	{
-		map textures/metro/tree01
+		map textures/terminus/tree01
 		alphaFunc GE128
 	}
 	{
@@ -774,9 +774,9 @@ textures/metro/tree01
 	}
 }
 
-textures/metro/tree02
+textures/terminus/tree02
 {
-	qer_editor_image textures/metro/tree02
+	qer_editor_image textures/terminus/tree02
 	qer_trans 0.40
 	cull disable
 	surfaceparm lightfilter
@@ -784,7 +784,7 @@ textures/metro/tree02
 	
 	deformVertexes wave 32 sin .7 .7 0 .8
 	{
-		map textures/metro/tree02
+		map textures/terminus/tree02
 		alphaFunc GE128
 	}
 	{
@@ -795,14 +795,14 @@ textures/metro/tree02
 	}
 }
 
-textures/metro/ivy01
+textures/terminus/ivy01
 {
-	qer_editor_image textures/metro/ivy01
+	qer_editor_image textures/terminus/ivy01
 	qer_trans 0.40
 	cull disable
 	surfaceparm lightfilter
 	{
-		map textures/metro/ivy01
+		map textures/terminus/ivy01
 		alphaFunc GE128
 	}
 	{
@@ -817,9 +817,9 @@ textures/metro/ivy01
 //	*      Decal	*
 //	*********************************************************
 
-textures/metro/decal01
+textures/terminus/decal01
 {
-	qer_editorimage textures/metro/decal01
+	qer_editorimage textures/terminus/decal01
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
@@ -827,14 +827,14 @@ textures/metro/decal01
 	cull disable
 	polygonOffset
 	{
-		map textures/metro/decal01
+		map textures/terminus/decal01
 		blendfunc gl_dst_color gl_src_color
 	}
 }
 
-textures/metro/mlab01
+textures/terminus/mlab01
 {
-	qer_editorimage textures/metro/mlab01
+	qer_editorimage textures/terminus/mlab01
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
@@ -842,7 +842,7 @@ textures/metro/mlab01
 	cull disable
 	polygonOffset
 	{
-		map textures/metro/mlab01
+		map textures/terminus/mlab01
 		alphaFunc GE128
 	}
 	{
@@ -853,9 +853,9 @@ textures/metro/mlab01
 	}
 }
 
-textures/metro/mlab02
+textures/terminus/mlab02
 {
-	qer_editorimage textures/metro/mlab02
+	qer_editorimage textures/terminus/mlab02
 	nopicmip
 	surfaceparm trans
 	surfaceparm nonsolid
@@ -864,7 +864,7 @@ textures/metro/mlab02
 	cull disable
 	polygonOffset
 	{
-		map textures/metro/mlab02
+		map textures/terminus/mlab02
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
@@ -875,9 +875,9 @@ textures/metro/mlab02
 	}
 }
 
-textures/metro/mlab03
+textures/terminus/mlab03
 {
-	qer_editorimage textures/metro/mlab03
+	qer_editorimage textures/terminus/mlab03
 	nopicmip
 	surfaceparm trans
 	surfaceparm nonsolid
@@ -886,14 +886,14 @@ textures/metro/mlab03
 	cull disable
 	polygonOffset
 	{
-		map textures/metro/mlab03
+		map textures/terminus/mlab03
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 }
 
-textures/metro/mlab04
+textures/terminus/mlab04
 {
-	qer_editorimage textures/metro/mlab04
+	qer_editorimage textures/terminus/mlab04
 	nopicmip
 	surfaceparm trans
 	surfaceparm nonsolid
@@ -902,14 +902,14 @@ textures/metro/mlab04
 	cull disable
 	polygonOffset
 	{
-		map textures/metro/mlab04
+		map textures/terminus/mlab04
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 }
 
-textures/metro/tags01
+textures/terminus/tags01
 {
-	qer_editorimage textures/metro/tags01
+	qer_editorimage textures/terminus/tags01
 	nopicmip
 	surfaceparm trans
 	surfaceparm nonsolid
@@ -918,14 +918,14 @@ textures/metro/tags01
 	cull disable
 	polygonOffset
 	{
-		map textures/metro/tags01
+		map textures/terminus/tags01
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 }
 
-textures/metro/tags02
+textures/terminus/tags02
 {
-	qer_editorimage textures/metro/tags02
+	qer_editorimage textures/terminus/tags02
 	nopicmip
 	surfaceparm trans
 	surfaceparm nonsolid
@@ -934,14 +934,14 @@ textures/metro/tags02
 	cull disable
 	polygonOffset
 	{
-		map textures/metro/tags02
+		map textures/terminus/tags02
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 }
 
-textures/metro/bouton02
+textures/terminus/bouton02
 {
-	qer_editorimage textures/metro/bouton02
+	qer_editorimage textures/terminus/bouton02
 	nopicmip
 	surfaceparm trans
 	surfaceparm nonsolid
@@ -950,7 +950,7 @@ textures/metro/bouton02
 	cull disable
 	polygonOffset
 	{
-		map textures/metro/bouton02
+		map textures/terminus/bouton02
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 }
@@ -959,19 +959,19 @@ textures/metro/bouton02
 //	*      Fire	*
 //	*********************************************************
 
-textures/metro/embers
+textures/terminus/embers
 {
-	qer_editorimage textures/metro/embers01
+	qer_editorimage textures/terminus/embers01
 	nopicmip
 	surfaceparm trans
 	surfaceparm nomarks
 	surfaceparm nolightmap
 	{
-		map textures/metro/embers01
+		map textures/terminus/embers01
 		blendfunc gl_dst_color gl_src_color
 	}
 	{
-		map textures/metro/embers02
+		map textures/terminus/embers02
 		blendfunc add
 		rgbgen wave sin .3 .1 0.3 1
 		alphaGen wave sin .3 .1 0.3 1
@@ -987,9 +987,9 @@ textures/metro/embers
 //	*      Water	*
 //	*********************************************************
 
-textures/metro/water01
+textures/terminus/water01
 {
-  qer_editorimage textures/metro/water03
+  qer_editorimage textures/terminus/water03
   qer_trans .55
 
   surfaceparm trans
@@ -1000,22 +1000,22 @@ textures/metro/water01
 
   deformVertexes wave 32 sin .3 .3 0 .3
 	{ 
-		map textures/metro/water04
+		map textures/terminus/water04
 		blendfunc gl_dst_color gl_src_color
 		rgbGen identity
 		tcMod Scroll .0 .08
 	}
 	{ 
-		map textures/metro/water02
+		map textures/terminus/water02
 		blendfunc gl_dst_color gl_src_color
 		rgbGen identity
 		tcMod Scroll .0 .04
 	}
 }
 
-textures/metro/water02
+textures/terminus/water02
 {
-  qer_editorimage textures/metro/water01
+  qer_editorimage textures/terminus/water01
   qer_trans .55
 
   surfaceparm trans
@@ -1026,22 +1026,22 @@ textures/metro/water02
 
   deformVertexes wave 64 sin .4 .4 0 .4
 	{ 
-		map textures/metro/water01
+		map textures/terminus/water01
 		blendfunc gl_dst_color gl_src_color
 		rgbGen identity
 		tcmod turb 0.014 0.026 0 0.026
 	}
 	{ 
-		map textures/metro/water02
+		map textures/terminus/water02
 		blendfunc gl_dst_color gl_src_color
 		rgbGen identity
 		tcmod turb 0.01 0.02 0 0.02
 	}
 }
 
-textures/metro/water06
+textures/terminus/water06
 {
-  qer_editorimage textures/metro/water03
+  qer_editorimage textures/terminus/water03
   qer_trans .55
 
   surfaceparm trans
@@ -1052,132 +1052,132 @@ textures/metro/water06
 
   deformVertexes wave 32 sin .3 .3 0 .3
 	{ 
-		map textures/metro/water05
+		map textures/terminus/water05
 		blendfunc gl_dst_color gl_src_color
 		rgbGen identity
 		tcMod Scroll .0 .12
 	}
 	{ 
-		map textures/metro/water05
+		map textures/terminus/water05
 		blendfunc gl_dst_color gl_src_color
 		rgbGen identity
 		tcMod Scroll .0 .13
 	}
 }
 
-textures/metro/trans01
+textures/terminus/trans01
 {
-	qer_editorimage textures/metro/trans01
+	qer_editorimage textures/terminus/trans01
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	polygonOffset
 	{
-		map textures/metro/trans01
+		map textures/terminus/trans01
 		blendfunc gl_dst_color gl_src_color
 	}
 }
 
-textures/metro/trans02
+textures/terminus/trans02
 {
-	qer_editorimage textures/metro/trans02
+	qer_editorimage textures/terminus/trans02
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	polygonOffset
 	{
-		map textures/metro/trans02
+		map textures/terminus/trans02
 		blendfunc gl_dst_color gl_src_color
 	}
 }
 
-textures/metro/trans03
+textures/terminus/trans03
 {
-	qer_editorimage textures/metro/trans03
+	qer_editorimage textures/terminus/trans03
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	polygonOffset
 	{
-		map textures/metro/trans03
+		map textures/terminus/trans03
 		blendfunc gl_dst_color gl_src_color
 	}
 }
 
-textures/metro/trans04
+textures/terminus/trans04
 {
-	qer_editorimage textures/metro/trans04
+	qer_editorimage textures/terminus/trans04
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	polygonOffset
 	{
-		map textures/metro/trans04
+		map textures/terminus/trans04
 		blendfunc gl_dst_color gl_src_color
 	}
 }
 
-textures/metro/trans05
+textures/terminus/trans05
 {
-	qer_editorimage textures/metro/trans05
+	qer_editorimage textures/terminus/trans05
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	polygonOffset
 	{
-		map textures/metro/trans05
+		map textures/terminus/trans05
 		blendfunc gl_dst_color gl_src_color
 	}
 }
 
-textures/metro/trans06
+textures/terminus/trans06
 {
-	qer_editorimage textures/metro/trans06
+	qer_editorimage textures/terminus/trans06
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	polygonOffset
 	{
-		map textures/metro/trans06
+		map textures/terminus/trans06
 		blendfunc gl_dst_color gl_src_color
 	}
 }
 
-textures/metro/trans07
+textures/terminus/trans07
 {
-	qer_editorimage textures/metro/trans07
+	qer_editorimage textures/terminus/trans07
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	polygonOffset
 	{
-		map textures/metro/trans07
+		map textures/terminus/trans07
 		blendfunc gl_dst_color gl_src_color
 	}
 }
 
-textures/metro/trans08
+textures/terminus/trans08
 {
-	qer_editorimage textures/metro/trans08
+	qer_editorimage textures/terminus/trans08
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	polygonOffset
 	{
-		map textures/metro/trans08
+		map textures/terminus/trans08
 		blendfunc gl_dst_color gl_src_color
 	}
 }
 
-textures/metro/trans09
+textures/terminus/trans09
 {
-	qer_editorimage textures/metro/trans09
+	qer_editorimage textures/terminus/trans09
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	polygonOffset
 	{
-		map textures/metro/trans09
+		map textures/terminus/trans09
 		blendfunc gl_dst_color gl_src_color
 	}
 }
@@ -1186,11 +1186,11 @@ textures/metro/trans09
 //	*      Skybox	*
 //	*********************************************************
 
-textures/metro/metro_skybox
+textures/terminus/terminus_skybox
 {
 	q3map_fancywater 5 0.2 0.19 0.15
 
-	qer_editorimage textures/metro/metro_skybox
+	qer_editorimage textures/terminus/terminus_skybox
 	surfaceparm sky
 	surfaceparm noimpact
 	surfaceparm nolightmap
@@ -1199,16 +1199,16 @@ textures/metro/metro_skybox
 	q3map_lightsubdivide 512
 	q3map_globaltexture
 	q3map_surfacelight 400
-	skyparms env/metro/puresky - -
+	skyparms env/terminus/puresky - -
 	{
-		map textures/metro/clouds
+		map textures/terminus/clouds
 		blendFunc GL_ONE GL_ONE
 		tcMod scroll 0.0014 0.0015
 		tcMod scale 4 4
         depthWrite
 	}
 	{
-		map textures/metro/clouds
+		map textures/terminus/clouds
 		blendFunc GL_ONE GL_ONE
 		tcMod scroll 0.0008 0.0011
 		tcMod scale 2 2

@@ -11,79 +11,79 @@
 {
 "classname" "sfx_speaker"
 "origin" "1260 144 -68"
-"noise" "sound/metro/fire"
+"noise" "sound/terminus/fire"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "1024 2776 124"
-"noise" "sound/metro/tunnel"
+"noise" "sound/terminus/tunnel"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "1024 1656 124"
-"noise" "sound/metro/tunnel"
+"noise" "sound/terminus/tunnel"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "1024 664 124"
-"noise" "sound/metro/tunnel"
+"noise" "sound/terminus/tunnel"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "1024 -72 124"
-"noise" "sound/metro/tunnel"
+"noise" "sound/terminus/tunnel"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "-192 -1544 124"
-"noise" "sound/metro/tunnel"
+"noise" "sound/terminus/tunnel"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "1228 2016 -68"
-"noise" "sound/metro/fire"
+"noise" "sound/terminus/fire"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "936 5040 -8"
-"noise" "sound/metro/fire"
+"noise" "sound/terminus/fire"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "920 4992 20"
-"noise" "sound/metro/fire"
+"noise" "sound/terminus/fire"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "324 352 -344"
-"noise" "sound/metro/water"
+"noise" "sound/terminus/water"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "584 2248 -156"
-"noise" "sound/metro/steam"
+"noise" "sound/terminus/steam"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "-896 -2384 -296"
-"noise" "sound/metro/fire"
+"noise" "sound/terminus/fire"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "-2848 -1472 -80"
-"noise" "sound/metro/fire"
+"noise" "sound/terminus/fire"
 "spawnflags" "1"
 "yaw" "-90"
 }
@@ -134,13 +134,13 @@
 {
 "classname" "sfx_speaker"
 "origin" "1740 4456 220"
-"noise" "sound/metro/radio"
+"noise" "sound/terminus/radio"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "396 4024 220"
-"noise" "sound/metro/radio"
+"noise" "sound/terminus/radio"
 "spawnflags" "1"
 }
 {
@@ -651,25 +651,25 @@
 {
 "classname" "sfx_speaker"
 "origin" "448 -904 124"
-"noise" "sound/metro/tunnel"
+"noise" "sound/terminus/tunnel"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "-2624 -1544 60"
-"noise" "sound/metro/tunnel"
+"noise" "sound/terminus/tunnel"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "-1408 -968 252"
-"noise" "sound/metro/tunnel"
+"noise" "sound/terminus/tunnel"
 "spawnflags" "1"
 }
 {
 "classname" "sfx_speaker"
 "origin" "-1664 -1800 252"
-"noise" "sound/metro/tunnel"
+"noise" "sound/terminus/tunnel"
 "spawnflags" "1"
 }
 {

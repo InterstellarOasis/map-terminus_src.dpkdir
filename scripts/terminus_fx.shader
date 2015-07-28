@@ -2,10 +2,10 @@
 // Mon Sep 26 18:14:58 2011
 
 
-textures/metro/thunder
+textures/terminus/thunder
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzthunder_fx_1
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzthunder_fx_1
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -15,7 +15,7 @@ textures/metro/thunder
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -67 0 0.1
 		alphagen const 1
@@ -24,10 +24,10 @@ textures/metro/thunder
 	}
 }
 
-textures/metro/zzthunder_fx_1
+textures/terminus/zzthunder_fx_1
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzthunder_fx_2
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzthunder_fx_2
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -37,7 +37,7 @@ textures/metro/zzthunder_fx_1
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -67 0.986471 0.1
 		alphagen const 1
@@ -46,10 +46,10 @@ textures/metro/zzthunder_fx_1
 	}
 }
 
-textures/metro/zzthunder_fx_2
+textures/terminus/zzthunder_fx_2
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzthunder_fx_3
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzthunder_fx_3
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -59,7 +59,7 @@ textures/metro/zzthunder_fx_2
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -67 0.991269 0.1
 		alphagen const 1
@@ -68,10 +68,10 @@ textures/metro/zzthunder_fx_2
 	}
 }
 
-textures/metro/zzthunder_fx_3
+textures/terminus/zzthunder_fx_3
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzthunder_fx_4
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzthunder_fx_4
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -81,7 +81,7 @@ textures/metro/zzthunder_fx_3
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -67 0.994086 0.1
 		alphagen const 1
@@ -90,10 +90,10 @@ textures/metro/zzthunder_fx_3
 	}
 }
 
-textures/metro/zzthunder_fx_4
+textures/terminus/zzthunder_fx_4
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzthunder_fx_5
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzthunder_fx_5
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -103,7 +103,7 @@ textures/metro/zzthunder_fx_4
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -67 0.99609 0.1
 		alphagen const 1
@@ -112,10 +112,10 @@ textures/metro/zzthunder_fx_4
 	}
 }
 
-textures/metro/zzthunder_fx_5
+textures/terminus/zzthunder_fx_5
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzthunder_fx_6
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzthunder_fx_6
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -125,7 +125,7 @@ textures/metro/zzthunder_fx_5
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -67 0.997647 0.1
 		alphagen const 1
@@ -134,9 +134,9 @@ textures/metro/zzthunder_fx_5
 	}
 }
 
-textures/metro/zzthunder_fx_6
+textures/terminus/zzthunder_fx_6
 {
-	qer_editorimage textures/metro/thunder
+	qer_editorimage textures/terminus/thunder
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -146,7 +146,7 @@ textures/metro/zzthunder_fx_6
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -67 0.998922 0.1
 		alphagen const 1
@@ -160,10 +160,10 @@ textures/metro/zzthunder_fx_6
 // Use on a 24x24 unit brush face
 
 
-textures/metro/mon_thunder
+textures/terminus/mon_thunder
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzmon_thunder_1
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzmon_thunder_1
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -173,7 +173,7 @@ textures/metro/mon_thunder
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -57 0 0.2
 		alphagen const 1
@@ -182,10 +182,10 @@ textures/metro/mon_thunder
 	}
 }
 
-textures/metro/zzmon_thunder_1
+textures/terminus/zzmon_thunder_1
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzmon_thunder_2
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzmon_thunder_2
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -195,7 +195,7 @@ textures/metro/zzmon_thunder_1
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -47 0.988797 0.15
 		alphagen const 1
@@ -204,10 +204,10 @@ textures/metro/zzmon_thunder_1
 	}
 }
 
-textures/metro/zzmon_thunder_2
+textures/terminus/zzmon_thunder_2
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzmon_thunder_3
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzmon_thunder_3
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -217,7 +217,7 @@ textures/metro/zzmon_thunder_2
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -52 0.993607 0.18
 		alphagen const 1
@@ -226,10 +226,10 @@ textures/metro/zzmon_thunder_2
 	}
 }
 
-textures/metro/zzmon_thunder_3
+textures/terminus/zzmon_thunder_3
 {
-	qer_editorimage textures/metro/thunder
-	q3map_cloneshader textures/metro/zzmon_thunder_4
+	qer_editorimage textures/terminus/thunder
+	q3map_cloneshader textures/terminus/zzmon_thunder_4
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -239,7 +239,7 @@ textures/metro/zzmon_thunder_3
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -59 0.996431 0.19
 		alphagen const 1
@@ -248,9 +248,9 @@ textures/metro/zzmon_thunder_3
 	}
 }
 
-textures/metro/zzmon_thunder_4
+textures/terminus/zzmon_thunder_4
 {
-	qer_editorimage textures/metro/thunder
+	qer_editorimage textures/terminus/thunder
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -260,7 +260,7 @@ textures/metro/zzmon_thunder_4
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/thunder
+		clampmap textures/terminus/thunder
 		blendfunc GL_ONE GL_ONE
 		rgbgen wave sawtooth 2 -45 0.998439 0.16
 		alphagen const 1
@@ -272,10 +272,10 @@ textures/metro/zzmon_thunder_4
 // Generated by Frozen Sand Particle Studio
 // Mon Sep 26 18:52:22 2011
 
-textures/metro/mon_fire
+textures/terminus/mon_fire
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_1
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_1
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -285,7 +285,7 @@ textures/metro/mon_fire
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1 0.784
 		alphagen wave sawtooth 0 6 0 0.784
@@ -294,10 +294,10 @@ textures/metro/mon_fire
 	}
 }
 
-textures/metro/zzmon_fire_1
+textures/terminus/zzmon_fire_1
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_2
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_2
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -307,7 +307,7 @@ textures/metro/zzmon_fire_1
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.10152 0.784
 		alphagen wave sawtooth 0 6 0.101516 0.784
@@ -316,10 +316,10 @@ textures/metro/zzmon_fire_1
 	}
 }
 
-textures/metro/zzmon_fire_2
+textures/terminus/zzmon_fire_2
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_3
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_3
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -329,7 +329,7 @@ textures/metro/zzmon_fire_2
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.17235 0.784
 		alphagen wave sawtooth 0 6 0.172346 0.784
@@ -338,10 +338,10 @@ textures/metro/zzmon_fire_2
 	}
 }
 
-textures/metro/zzmon_fire_3
+textures/terminus/zzmon_fire_3
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_4
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_4
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -351,7 +351,7 @@ textures/metro/zzmon_fire_3
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.23489 0.784
 		alphagen wave sawtooth 0 6 0.234889 0.784
@@ -360,10 +360,10 @@ textures/metro/zzmon_fire_3
 	}
 }
 
-textures/metro/zzmon_fire_4
+textures/terminus/zzmon_fire_4
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_5
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_5
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -373,7 +373,7 @@ textures/metro/zzmon_fire_4
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.29259 0.784
 		alphagen wave sawtooth 0 6 0.292595 0.784
@@ -382,10 +382,10 @@ textures/metro/zzmon_fire_4
 	}
 }
 
-textures/metro/zzmon_fire_5
+textures/terminus/zzmon_fire_5
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_6
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_6
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -395,7 +395,7 @@ textures/metro/zzmon_fire_5
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.34695 0.784
 		alphagen wave sawtooth 0 6 0.34695 0.784
@@ -404,10 +404,10 @@ textures/metro/zzmon_fire_5
 	}
 }
 
-textures/metro/zzmon_fire_6
+textures/terminus/zzmon_fire_6
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_7
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_7
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -417,7 +417,7 @@ textures/metro/zzmon_fire_6
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.39878 0.784
 		alphagen wave sawtooth 0 6 0.398777 0.784
@@ -426,10 +426,10 @@ textures/metro/zzmon_fire_6
 	}
 }
 
-textures/metro/zzmon_fire_7
+textures/terminus/zzmon_fire_7
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_8
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_8
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -439,7 +439,7 @@ textures/metro/zzmon_fire_7
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.44859 0.784
 		alphagen wave sawtooth 0 6 0.448591 0.784
@@ -448,10 +448,10 @@ textures/metro/zzmon_fire_7
 	}
 }
 
-textures/metro/zzmon_fire_8
+textures/terminus/zzmon_fire_8
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_9
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_9
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -461,7 +461,7 @@ textures/metro/zzmon_fire_8
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.49674 0.784
 		alphagen wave sawtooth 0 6 0.496744 0.784
@@ -470,10 +470,10 @@ textures/metro/zzmon_fire_8
 	}
 }
 
-textures/metro/zzmon_fire_9
+textures/terminus/zzmon_fire_9
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_10
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_10
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -483,7 +483,7 @@ textures/metro/zzmon_fire_9
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.54349 0.784
 		alphagen wave sawtooth 0 6 0.543492 0.784
@@ -492,10 +492,10 @@ textures/metro/zzmon_fire_9
 	}
 }
 
-textures/metro/zzmon_fire_10
+textures/terminus/zzmon_fire_10
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_11
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_11
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -505,7 +505,7 @@ textures/metro/zzmon_fire_10
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.58902 0.784
 		alphagen wave sawtooth 0 6 0.589025 0.784
@@ -514,10 +514,10 @@ textures/metro/zzmon_fire_10
 	}
 }
 
-textures/metro/zzmon_fire_11
+textures/terminus/zzmon_fire_11
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_12
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_12
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -527,7 +527,7 @@ textures/metro/zzmon_fire_11
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.63349 0.784
 		alphagen wave sawtooth 0 6 0.633492 0.784
@@ -536,10 +536,10 @@ textures/metro/zzmon_fire_11
 	}
 }
 
-textures/metro/zzmon_fire_12
+textures/terminus/zzmon_fire_12
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_13
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_13
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -549,7 +549,7 @@ textures/metro/zzmon_fire_12
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.67701 0.784
 		alphagen wave sawtooth 0 6 0.677012 0.784
@@ -558,10 +558,10 @@ textures/metro/zzmon_fire_12
 	}
 }
 
-textures/metro/zzmon_fire_13
+textures/terminus/zzmon_fire_13
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_14
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_14
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -571,7 +571,7 @@ textures/metro/zzmon_fire_13
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.71968 0.784
 		alphagen wave sawtooth 0 6 0.719682 0.784
@@ -580,10 +580,10 @@ textures/metro/zzmon_fire_13
 	}
 }
 
-textures/metro/zzmon_fire_14
+textures/terminus/zzmon_fire_14
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_15
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_15
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -593,7 +593,7 @@ textures/metro/zzmon_fire_14
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.76158 0.784
 		alphagen wave sawtooth 0 6 0.761582 0.784
@@ -602,10 +602,10 @@ textures/metro/zzmon_fire_14
 	}
 }
 
-textures/metro/zzmon_fire_15
+textures/terminus/zzmon_fire_15
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_16
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_16
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -615,7 +615,7 @@ textures/metro/zzmon_fire_15
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.80278 0.784
 		alphagen wave sawtooth 0 6 0.80278 0.784
@@ -624,10 +624,10 @@ textures/metro/zzmon_fire_15
 	}
 }
 
-textures/metro/zzmon_fire_16
+textures/terminus/zzmon_fire_16
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_17
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_17
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -637,7 +637,7 @@ textures/metro/zzmon_fire_16
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.84333 0.784
 		alphagen wave sawtooth 0 6 0.843334 0.784
@@ -646,10 +646,10 @@ textures/metro/zzmon_fire_16
 	}
 }
 
-textures/metro/zzmon_fire_17
+textures/terminus/zzmon_fire_17
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_18
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_18
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -659,7 +659,7 @@ textures/metro/zzmon_fire_17
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.88329 0.784
 		alphagen wave sawtooth 0 6 0.883292 0.784
@@ -668,10 +668,10 @@ textures/metro/zzmon_fire_17
 	}
 }
 
-textures/metro/zzmon_fire_18
+textures/terminus/zzmon_fire_18
 {
-	qer_editorimage textures/metro/fire
-	q3map_cloneshader textures/metro/zzmon_fire_19
+	qer_editorimage textures/terminus/fire
+	q3map_cloneshader textures/terminus/zzmon_fire_19
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -681,7 +681,7 @@ textures/metro/zzmon_fire_18
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.9227 0.784
 		alphagen wave sawtooth 0 6 0.922698 0.784
@@ -690,9 +690,9 @@ textures/metro/zzmon_fire_18
 	}
 }
 
-textures/metro/zzmon_fire_19
+textures/terminus/zzmon_fire_19
 {
-	qer_editorimage textures/metro/fire
+	qer_editorimage textures/terminus/fire
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -702,7 +702,7 @@ textures/metro/zzmon_fire_19
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/fire
+		clampmap textures/terminus/fire
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave sawtooth 1 -1 1.96159 0.784
 		alphagen wave sawtooth 0 6 0.96159 0.784
@@ -715,10 +715,10 @@ textures/metro/zzmon_fire_19
 // Mon Sep 26 21:02:12 2011
 
 
-textures/metro/mon_smoke
+textures/terminus/mon_smoke
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_1
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_1
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -728,7 +728,7 @@ textures/metro/mon_smoke
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0 0.172
 		alphagen wave sawtooth 1.2 -1.2 0 0.172
@@ -737,10 +737,10 @@ textures/metro/mon_smoke
 	}
 }
 
-textures/metro/zzmon_smoke_1
+textures/terminus/zzmon_smoke_1
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_2
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_2
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -750,7 +750,7 @@ textures/metro/zzmon_smoke_1
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.05 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.05 0.172
@@ -759,10 +759,10 @@ textures/metro/zzmon_smoke_1
 	}
 }
 
-textures/metro/zzmon_smoke_2
+textures/terminus/zzmon_smoke_2
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_3
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_3
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -772,7 +772,7 @@ textures/metro/zzmon_smoke_2
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.1 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.1 0.172
@@ -781,10 +781,10 @@ textures/metro/zzmon_smoke_2
 	}
 }
 
-textures/metro/zzmon_smoke_3
+textures/terminus/zzmon_smoke_3
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_4
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_4
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -794,7 +794,7 @@ textures/metro/zzmon_smoke_3
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.15 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.15 0.172
@@ -803,10 +803,10 @@ textures/metro/zzmon_smoke_3
 	}
 }
 
-textures/metro/zzmon_smoke_4
+textures/terminus/zzmon_smoke_4
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_5
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_5
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -816,7 +816,7 @@ textures/metro/zzmon_smoke_4
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.2 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.2 0.172
@@ -825,10 +825,10 @@ textures/metro/zzmon_smoke_4
 	}
 }
 
-textures/metro/zzmon_smoke_5
+textures/terminus/zzmon_smoke_5
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_6
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_6
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -838,7 +838,7 @@ textures/metro/zzmon_smoke_5
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.25 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.25 0.172
@@ -847,10 +847,10 @@ textures/metro/zzmon_smoke_5
 	}
 }
 
-textures/metro/zzmon_smoke_6
+textures/terminus/zzmon_smoke_6
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_7
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_7
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -860,7 +860,7 @@ textures/metro/zzmon_smoke_6
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.3 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.3 0.172
@@ -869,10 +869,10 @@ textures/metro/zzmon_smoke_6
 	}
 }
 
-textures/metro/zzmon_smoke_7
+textures/terminus/zzmon_smoke_7
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_8
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_8
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -882,7 +882,7 @@ textures/metro/zzmon_smoke_7
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.35 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.35 0.172
@@ -891,10 +891,10 @@ textures/metro/zzmon_smoke_7
 	}
 }
 
-textures/metro/zzmon_smoke_8
+textures/terminus/zzmon_smoke_8
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_9
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_9
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -904,7 +904,7 @@ textures/metro/zzmon_smoke_8
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.4 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.4 0.172
@@ -913,10 +913,10 @@ textures/metro/zzmon_smoke_8
 	}
 }
 
-textures/metro/zzmon_smoke_9
+textures/terminus/zzmon_smoke_9
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_10
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_10
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -926,7 +926,7 @@ textures/metro/zzmon_smoke_9
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.45 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.45 0.172
@@ -935,10 +935,10 @@ textures/metro/zzmon_smoke_9
 	}
 }
 
-textures/metro/zzmon_smoke_10
+textures/terminus/zzmon_smoke_10
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_11
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_11
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -948,7 +948,7 @@ textures/metro/zzmon_smoke_10
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.5 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.5 0.172
@@ -957,10 +957,10 @@ textures/metro/zzmon_smoke_10
 	}
 }
 
-textures/metro/zzmon_smoke_11
+textures/terminus/zzmon_smoke_11
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_12
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_12
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -970,7 +970,7 @@ textures/metro/zzmon_smoke_11
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.55 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.55 0.172
@@ -979,10 +979,10 @@ textures/metro/zzmon_smoke_11
 	}
 }
 
-textures/metro/zzmon_smoke_12
+textures/terminus/zzmon_smoke_12
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_13
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_13
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -992,7 +992,7 @@ textures/metro/zzmon_smoke_12
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.6 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.6 0.172
@@ -1001,10 +1001,10 @@ textures/metro/zzmon_smoke_12
 	}
 }
 
-textures/metro/zzmon_smoke_13
+textures/terminus/zzmon_smoke_13
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_14
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_14
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1014,7 +1014,7 @@ textures/metro/zzmon_smoke_13
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.65 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.65 0.172
@@ -1023,10 +1023,10 @@ textures/metro/zzmon_smoke_13
 	}
 }
 
-textures/metro/zzmon_smoke_14
+textures/terminus/zzmon_smoke_14
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_15
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_15
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1036,7 +1036,7 @@ textures/metro/zzmon_smoke_14
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.7 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.7 0.172
@@ -1045,10 +1045,10 @@ textures/metro/zzmon_smoke_14
 	}
 }
 
-textures/metro/zzmon_smoke_15
+textures/terminus/zzmon_smoke_15
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_16
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_16
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1058,7 +1058,7 @@ textures/metro/zzmon_smoke_15
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.75 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.75 0.172
@@ -1067,10 +1067,10 @@ textures/metro/zzmon_smoke_15
 	}
 }
 
-textures/metro/zzmon_smoke_16
+textures/terminus/zzmon_smoke_16
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_17
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_17
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1080,7 +1080,7 @@ textures/metro/zzmon_smoke_16
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.8 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.8 0.172
@@ -1089,10 +1089,10 @@ textures/metro/zzmon_smoke_16
 	}
 }
 
-textures/metro/zzmon_smoke_17
+textures/terminus/zzmon_smoke_17
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_18
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_18
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1102,7 +1102,7 @@ textures/metro/zzmon_smoke_17
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.85 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.85 0.172
@@ -1111,10 +1111,10 @@ textures/metro/zzmon_smoke_17
 	}
 }
 
-textures/metro/zzmon_smoke_18
+textures/terminus/zzmon_smoke_18
 {
-	qer_editorimage textures/metro/smoke
-	q3map_cloneshader textures/metro/zzmon_smoke_19
+	qer_editorimage textures/terminus/smoke
+	q3map_cloneshader textures/terminus/zzmon_smoke_19
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1124,7 +1124,7 @@ textures/metro/zzmon_smoke_18
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.9 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.9 0.172
@@ -1133,9 +1133,9 @@ textures/metro/zzmon_smoke_18
 	}
 }
 
-textures/metro/zzmon_smoke_19
+textures/terminus/zzmon_smoke_19
 {
-	qer_editorimage textures/metro/smoke
+	qer_editorimage textures/terminus/smoke
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1145,7 +1145,7 @@ textures/metro/zzmon_smoke_19
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/smoke
+		clampmap textures/terminus/smoke
 		blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen wave sawtooth 0 0.5 0.95 0.172
 		alphagen wave sawtooth 1.2 -1.2 0.95 0.172
@@ -1158,10 +1158,10 @@ textures/metro/zzmon_smoke_19
 // Tue Dec 27 14:58:59 2011
 
 
-textures/metro/steam
+textures/terminus/steam
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_1
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_1
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1171,7 +1171,7 @@ textures/metro/steam
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1 1.2181
 		alphagen const 5
@@ -1180,10 +1180,10 @@ textures/metro/steam
 	}
 }
 
-textures/metro/zzsteam_1
+textures/terminus/zzsteam_1
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_2
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_2
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1193,7 +1193,7 @@ textures/metro/zzsteam_1
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.05113 1.2181
 		alphagen const 5
@@ -1202,10 +1202,10 @@ textures/metro/zzsteam_1
 	}
 }
 
-textures/metro/zzsteam_2
+textures/terminus/zzsteam_2
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_3
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_3
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1215,7 +1215,7 @@ textures/metro/zzsteam_2
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.0913 1.2181
 		alphagen const 5
@@ -1224,10 +1224,10 @@ textures/metro/zzsteam_2
 	}
 }
 
-textures/metro/zzsteam_3
+textures/terminus/zzsteam_3
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_4
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_4
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1237,7 +1237,7 @@ textures/metro/zzsteam_3
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.12815 1.2181
 		alphagen const 5
@@ -1246,10 +1246,10 @@ textures/metro/zzsteam_3
 	}
 }
 
-textures/metro/zzsteam_4
+textures/terminus/zzsteam_4
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_5
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_5
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1259,7 +1259,7 @@ textures/metro/zzsteam_4
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.163 1.2181
 		alphagen const 5
@@ -1268,10 +1268,10 @@ textures/metro/zzsteam_4
 	}
 }
 
-textures/metro/zzsteam_5
+textures/terminus/zzsteam_5
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_6
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_6
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1281,7 +1281,7 @@ textures/metro/zzsteam_5
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.19645 1.2181
 		alphagen const 5
@@ -1290,10 +1290,10 @@ textures/metro/zzsteam_5
 	}
 }
 
-textures/metro/zzsteam_6
+textures/terminus/zzsteam_6
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_7
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_7
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1303,7 +1303,7 @@ textures/metro/zzsteam_6
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.2288 1.2181
 		alphagen const 5
@@ -1312,10 +1312,10 @@ textures/metro/zzsteam_6
 	}
 }
 
-textures/metro/zzsteam_7
+textures/terminus/zzsteam_7
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_8
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_8
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1325,7 +1325,7 @@ textures/metro/zzsteam_7
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.26029 1.2181
 		alphagen const 5
@@ -1334,10 +1334,10 @@ textures/metro/zzsteam_7
 	}
 }
 
-textures/metro/zzsteam_8
+textures/terminus/zzsteam_8
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_9
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_9
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1347,7 +1347,7 @@ textures/metro/zzsteam_8
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.29104 1.2181
 		alphagen const 5
@@ -1356,10 +1356,10 @@ textures/metro/zzsteam_8
 	}
 }
 
-textures/metro/zzsteam_9
+textures/terminus/zzsteam_9
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_10
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_10
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1369,7 +1369,7 @@ textures/metro/zzsteam_9
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.32117 1.2181
 		alphagen const 5
@@ -1378,10 +1378,10 @@ textures/metro/zzsteam_9
 	}
 }
 
-textures/metro/zzsteam_10
+textures/terminus/zzsteam_10
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_11
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_11
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1391,7 +1391,7 @@ textures/metro/zzsteam_10
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.35075 1.2181
 		alphagen const 5
@@ -1400,10 +1400,10 @@ textures/metro/zzsteam_10
 	}
 }
 
-textures/metro/zzsteam_11
+textures/terminus/zzsteam_11
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_12
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_12
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1413,7 +1413,7 @@ textures/metro/zzsteam_11
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.37985 1.2181
 		alphagen const 5
@@ -1422,10 +1422,10 @@ textures/metro/zzsteam_11
 	}
 }
 
-textures/metro/zzsteam_12
+textures/terminus/zzsteam_12
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_13
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_13
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1435,7 +1435,7 @@ textures/metro/zzsteam_12
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.40852 1.2181
 		alphagen const 5
@@ -1444,10 +1444,10 @@ textures/metro/zzsteam_12
 	}
 }
 
-textures/metro/zzsteam_13
+textures/terminus/zzsteam_13
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_14
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_14
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1457,7 +1457,7 @@ textures/metro/zzsteam_13
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.4368 1.2181
 		alphagen const 5
@@ -1466,10 +1466,10 @@ textures/metro/zzsteam_13
 	}
 }
 
-textures/metro/zzsteam_14
+textures/terminus/zzsteam_14
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_15
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_15
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1479,7 +1479,7 @@ textures/metro/zzsteam_14
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.46473 1.2181
 		alphagen const 5
@@ -1488,10 +1488,10 @@ textures/metro/zzsteam_14
 	}
 }
 
-textures/metro/zzsteam_15
+textures/terminus/zzsteam_15
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_16
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_16
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1501,7 +1501,7 @@ textures/metro/zzsteam_15
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.49234 1.2181
 		alphagen const 5
@@ -1510,10 +1510,10 @@ textures/metro/zzsteam_15
 	}
 }
 
-textures/metro/zzsteam_16
+textures/terminus/zzsteam_16
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_17
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_17
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1523,7 +1523,7 @@ textures/metro/zzsteam_16
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.51964 1.2181
 		alphagen const 5
@@ -1532,10 +1532,10 @@ textures/metro/zzsteam_16
 	}
 }
 
-textures/metro/zzsteam_17
+textures/terminus/zzsteam_17
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_18
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_18
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1545,7 +1545,7 @@ textures/metro/zzsteam_17
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.54666 1.2181
 		alphagen const 5
@@ -1554,10 +1554,10 @@ textures/metro/zzsteam_17
 	}
 }
 
-textures/metro/zzsteam_18
+textures/terminus/zzsteam_18
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_19
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_19
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1567,7 +1567,7 @@ textures/metro/zzsteam_18
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.57343 1.2181
 		alphagen const 5
@@ -1576,10 +1576,10 @@ textures/metro/zzsteam_18
 	}
 }
 
-textures/metro/zzsteam_19
+textures/terminus/zzsteam_19
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_20
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_20
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1589,7 +1589,7 @@ textures/metro/zzsteam_19
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.59995 1.2181
 		alphagen const 5
@@ -1598,10 +1598,10 @@ textures/metro/zzsteam_19
 	}
 }
 
-textures/metro/zzsteam_20
+textures/terminus/zzsteam_20
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_21
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_21
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1611,7 +1611,7 @@ textures/metro/zzsteam_20
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.62625 1.2181
 		alphagen const 5
@@ -1620,10 +1620,10 @@ textures/metro/zzsteam_20
 	}
 }
 
-textures/metro/zzsteam_21
+textures/terminus/zzsteam_21
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_22
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_22
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1633,7 +1633,7 @@ textures/metro/zzsteam_21
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.65233 1.2181
 		alphagen const 5
@@ -1642,10 +1642,10 @@ textures/metro/zzsteam_21
 	}
 }
 
-textures/metro/zzsteam_22
+textures/terminus/zzsteam_22
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_23
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_23
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1655,7 +1655,7 @@ textures/metro/zzsteam_22
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.67821 1.2181
 		alphagen const 5
@@ -1664,10 +1664,10 @@ textures/metro/zzsteam_22
 	}
 }
 
-textures/metro/zzsteam_23
+textures/terminus/zzsteam_23
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_24
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_24
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1677,7 +1677,7 @@ textures/metro/zzsteam_23
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.7039 1.2181
 		alphagen const 5
@@ -1686,10 +1686,10 @@ textures/metro/zzsteam_23
 	}
 }
 
-textures/metro/zzsteam_24
+textures/terminus/zzsteam_24
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_25
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_25
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1699,7 +1699,7 @@ textures/metro/zzsteam_24
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.7294 1.2181
 		alphagen const 5
@@ -1708,10 +1708,10 @@ textures/metro/zzsteam_24
 	}
 }
 
-textures/metro/zzsteam_25
+textures/terminus/zzsteam_25
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_26
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_26
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1721,7 +1721,7 @@ textures/metro/zzsteam_25
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.75473 1.2181
 		alphagen const 5
@@ -1730,10 +1730,10 @@ textures/metro/zzsteam_25
 	}
 }
 
-textures/metro/zzsteam_26
+textures/terminus/zzsteam_26
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_27
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_27
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1743,7 +1743,7 @@ textures/metro/zzsteam_26
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.7799 1.2181
 		alphagen const 5
@@ -1752,10 +1752,10 @@ textures/metro/zzsteam_26
 	}
 }
 
-textures/metro/zzsteam_27
+textures/terminus/zzsteam_27
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_28
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_28
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1765,7 +1765,7 @@ textures/metro/zzsteam_27
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.80491 1.2181
 		alphagen const 5
@@ -1774,10 +1774,10 @@ textures/metro/zzsteam_27
 	}
 }
 
-textures/metro/zzsteam_28
+textures/terminus/zzsteam_28
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_29
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_29
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1787,7 +1787,7 @@ textures/metro/zzsteam_28
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.82976 1.2181
 		alphagen const 5
@@ -1796,10 +1796,10 @@ textures/metro/zzsteam_28
 	}
 }
 
-textures/metro/zzsteam_29
+textures/terminus/zzsteam_29
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_30
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_30
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1809,7 +1809,7 @@ textures/metro/zzsteam_29
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.85447 1.2181
 		alphagen const 5
@@ -1818,10 +1818,10 @@ textures/metro/zzsteam_29
 	}
 }
 
-textures/metro/zzsteam_30
+textures/terminus/zzsteam_30
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_31
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_31
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1831,7 +1831,7 @@ textures/metro/zzsteam_30
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.87905 1.2181
 		alphagen const 5
@@ -1840,10 +1840,10 @@ textures/metro/zzsteam_30
 	}
 }
 
-textures/metro/zzsteam_31
+textures/terminus/zzsteam_31
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_32
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_32
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1853,7 +1853,7 @@ textures/metro/zzsteam_31
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.90349 1.2181
 		alphagen const 5
@@ -1862,10 +1862,10 @@ textures/metro/zzsteam_31
 	}
 }
 
-textures/metro/zzsteam_32
+textures/terminus/zzsteam_32
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_33
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_33
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1875,7 +1875,7 @@ textures/metro/zzsteam_32
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.9278 1.2181
 		alphagen const 5
@@ -1884,10 +1884,10 @@ textures/metro/zzsteam_32
 	}
 }
 
-textures/metro/zzsteam_33
+textures/terminus/zzsteam_33
 {
-	qer_editorimage textures/metro/steam
-	q3map_cloneshader textures/metro/zzsteam_34
+	qer_editorimage textures/terminus/steam
+	q3map_cloneshader textures/terminus/zzsteam_34
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1897,7 +1897,7 @@ textures/metro/zzsteam_33
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.95198 1.2181
 		alphagen const 5
@@ -1906,9 +1906,9 @@ textures/metro/zzsteam_33
 	}
 }
 
-textures/metro/zzsteam_34
+textures/terminus/zzsteam_34
 {
-	qer_editorimage textures/metro/steam
+	qer_editorimage textures/terminus/steam
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm nomarks
@@ -1918,7 +1918,7 @@ textures/metro/zzsteam_34
 	deformvertexes autosprite
 	cull disable
 	{
-		clampmap textures/metro/steam
+		clampmap textures/terminus/steam
 		blendfunc GL_SRC_ALPHA GL_ONE
 		rgbgen wave inversesawtooth -0.8667 5.8667 1.97605 1.2181
 		alphagen const 5
