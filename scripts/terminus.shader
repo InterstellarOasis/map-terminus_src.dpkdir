@@ -156,16 +156,16 @@ textures/terminus/escalator01
 	}
 }
 
-textures/terminus/swat
+textures/terminus/quarantaine
 {
-	qer_editorimage textures/terminus/swat
+	qer_editorimage textures/terminus/quarantaine
 	surfaceparm trans
 	surfaceparm lightfilter
 	surfaceparm nonsolid
 	cull none
 	
 	{ 
-		map textures/terminus/swat
+		map textures/terminus/quarantaine
 		rgbGen identity
 		rgbGen identity
 	}
