@@ -314,9 +314,9 @@ textures/terminus/lightmetro
 	}
 }
 
-textures/terminus/wellowlight
+textures/terminus/yellowlight
 {
-	qer_editorimage textures/terminus/wellowlight
+	qer_editorimage textures/terminus/yellowlight
 	surfaceparm nomarks
 	surfaceparm nolightmap
 	q3map_surfacelight 18000
@@ -327,12 +327,12 @@ textures/terminus/wellowlight
 		rgbGen identity
 	}
 	{
-		map textures/terminus/wellowlight
+		map textures/terminus/yellowlight
 		rgbGen identity
 		blendFunc GL_DST_COLOR GL_ZERO
 	}
 	{
-		map textures/terminus/wellowlight
+		map textures/terminus/yellowlight
 		blendfunc GL_ONE GL_ONE
 	}
 }
