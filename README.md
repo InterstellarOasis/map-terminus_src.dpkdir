@@ -7,6 +7,32 @@ This map was already ported to Tremulous in the past, but it was'nt made cleanly
 
 This map was named _“Metro”_ on Urban Terror, it is named _“Terminus”_ on Unvanquished to avoid conflicts with an homonym map by KOsAD.
 
+How to test
+-----------
+
+Rebuild the bsp using `bsp_cutter.py` from [grtoolbox](https://github.com/illwieckz/grtoolbox):
+
+```
+cd ~/.unvanquished/pkg
+git clone https://github.com/interstellar-oasis/map-terminus.git map-terminus_0~git.pk3dir
+cd map-terminus_0~git.pk3dir
+bsp_cutter.py -id maps/terminus.bspdir/ -ob maps/terminus.bsp
+```
+
+Optional, build a minimap and some navmesh using [q3map2_helper](https://github.com/illwieckz/q3map2_helper):
+
+```
+q3map2_helper.sh -n maps/terminus.bsp
+q3map2_helper.sh -m maps/terminus.bsp
+```
+
+Run the map:
+
+```
+cd /where/you/installed/unvanquished
+daemon +devmap terminus
+```
+
 History
 -------
 
