@@ -16,32 +16,34 @@ Levelshot
 How to test
 -----------
 
-Get the sources:
+* Get the sources
 
 ```
-cd ~/.unvanquished/pkg/
-git clone https://github.com/interstellar-oasis/map-terminus.git map-terminus_0~git.pk3dir
-cd map-terminus_0~git.pk3dir/
+git clone https://github.com/interstellar-oasis/map-terminus.git map-terminus_source.pk3dir
+cd map-terminus_source.pk3dir/
 ```
 
-Rebuild the bsp using `bsp_cutter.py` from [grtoolbox](https://github.com/illwieckz/grtoolbox):
+* Build
+
+You need the [grtoolbox](https://github.com/illwieckz/grtoolbox) and [q3map2_helper.sh](https://github.com/illwieckz/q3map2_helper) (there is some work in progress in q3map2 to avoid the need of `q3map2_helper.sh`).
+You will find the pk3dir in `build/test`.
 
 ```
-bsp_cutter.py -id maps/terminus.bspdir/ -ob maps/terminus.bsp
+make
 ```
 
-Optional, build a minimap and some navmeshes using [q3map2_helper](https://github.com/illwieckz/q3map2_helper):
+* Package
+
+You will find the pk3 in `build/pkg`.
 
 ```
-q3map2_helper.sh -n maps/terminus.bsp
-q3map2_helper.sh -m maps/terminus.bsp
+make pk3
 ```
 
 Run the map:
 
 ```
-cd /where/you/installed/unvanquished
-./daemon +devmap terminus
+daemon -pakpath /where/you/installed/unvanquished/pkg -pakpath build/pkg +devmap terminus
 ```
 
 History
