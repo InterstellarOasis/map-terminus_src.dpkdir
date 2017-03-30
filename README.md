@@ -13,8 +13,8 @@ Levelshot
 ![Levelshot](meta/terminus/terminus.png)
 
 
-How to test
------------
+How to
+------
 
 * Get the sources
 
@@ -26,6 +26,7 @@ cd map-terminus_source.pk3dir/
 * Build
 
 You need the [grtoolbox](https://github.com/illwieckz/grtoolbox) and [q3map2_helper.sh](https://github.com/illwieckz/q3map2_helper) (there is some work in progress in q3map2 to avoid the need of `q3map2_helper.sh`).
+
 You will find the pk3dir in `build/test`.
 
 ```
@@ -52,15 +53,16 @@ History
 * 2012-01-29:	Metro beta 2
 * 2011-12-31:	Metro beta 1
 
-Author
-------
+Credits
+-------
 
-* Honoré “newin” Jaussoin <big.newin@gmail.com>
+Unvanquished port:
 
-Contributor
------------
+* Thomas “illwieckz” Debesse <dev@illwieckz.net> (http://gg.illwieckz.net)
 
-* Thomas “illwieckz” Debesse <dev@illwieckz.net>
+Mapping:
+
+* Honoré “newin” Jaussoin <big.newin@gmail.com> (http://newincore.tumblr.com/)
 
 Extra credits
 -------------
