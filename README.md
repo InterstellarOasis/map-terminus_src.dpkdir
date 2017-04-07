@@ -19,32 +19,32 @@ How to
 * Get the sources
 
 ```
-git clone https://github.com/interstellar-oasis/map-terminus.git map-terminus_source.pk3dir
-cd map-terminus_source.pk3dir/
+git clone https://github.com/InterstellarOasis/map-terminus_src.dpkdir.git
+cd map-terminus_src.dpkdir/
 ```
 
 * Build
 
-You need the [grtoolbox](https://github.com/illwieckz/grtoolbox) and [q3map2_helper.sh](https://github.com/illwieckz/q3map2_helper) (there is some work in progress in q3map2 to avoid the need of `q3map2_helper.sh`).
+You need the [Urcheon](https://github.com/illwieckz/Urcheon) tool and [q3map2_helper.sh](https://github.com/illwieckz/q3map2_helper) (there is some work in progress in q3map2 to avoid the need of `q3map2_helper.sh`).
 
-You will find the pk3dir in `build/test`.
+You will find the dpkdir in `build/test`.
 
 ```
-make
+urcheon build
 ```
 
 * Package
 
-You will find the pk3 in `build/pkg`.
+You will find the dpk in `build/pkg`.
 
 ```
-make pk3
+urcheon package
 ```
 
 Run the map:
 
 ```
-daemon -pakpath /where/you/installed/unvanquished/pkg -pakpath build/pkg +devmap terminus
+daemon -pakpath build/pkg +devmap terminus
 ```
 
 History
