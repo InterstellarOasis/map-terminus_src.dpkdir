@@ -1,0 +1,2 @@
+copy textures/terminus/metal11.jpg
+copy textures/terminus/white01.jpg
