@@ -141,37 +141,37 @@
 {
 "classname" "pos_location"
 "origin" "-1304 -1616 -24"
-"message" "Terrorists hideout"
+"message" "Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-896 -704 -216"
-"message" "Line C : Terrorists hideout"
+"message" "Line C: Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-1664 -896 40"
-"message" "Terrorists hideout"
+"message" "Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-1920 -1536 40"
-"message" "Terrorists hideout"
+"message" "Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-1856 -2048 40"
-"message" "Terrorists hideout"
+"message" "Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-640 -1600 40"
-"message" "Line B :  Terrorists hideout"
+"message" "Line B:  Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-64 -1536 40"
-"message" "Line B :  Tunnel end"
+"message" "Line B:  Tunnel end"
 }
 {
 "classname" "pos_location"
@@ -251,27 +251,27 @@
 {
 "classname" "pos_location"
 "origin" "256 -1440 40"
-"message" "Line B : Pillar"
+"message" "Line B: Pillar"
 }
 {
 "classname" "pos_location"
 "origin" "704 -1216 40"
-"message" "Line B : Pillar"
+"message" "Line B: Pillar"
 }
 {
 "classname" "pos_location"
 "origin" "960 -832 40"
-"message" "Line B : Pillar"
+"message" "Line B: Pillar"
 }
 {
 "classname" "pos_location"
 "origin" "576 -768 -24"
-"message" "Line B : Pillar"
+"message" "Line B: Pillar"
 }
 {
 "classname" "pos_location"
 "origin" "256 -1120 -24"
-"message" "Line B : Pillar"
+"message" "Line B: Pillar"
 }
 {
 "classname" "pos_location"
@@ -311,62 +311,62 @@
 {
 "classname" "pos_location"
 "origin" "1024 -304 40"
-"message" "Line B :  Detached car"
+"message" "Line B:  Detached car"
 }
 {
 "classname" "pos_location"
 "origin" "1088 96 40"
-"message" "Line B :  Detached car"
+"message" "Line B:  Detached car"
 }
 {
 "classname" "pos_location"
 "origin" "1056 576 40"
-"message" "Line B :  Crash subway's"
+"message" "Line B:  Crash subway's"
 }
 {
 "classname" "pos_location"
 "origin" "1056 768 40"
-"message" "Line B :  Crash subway's"
+"message" "Line B:  Crash subway's"
 }
 {
 "classname" "pos_location"
 "origin" "1056 896 40"
-"message" "Line B :  Crash subway's"
+"message" "Line B:  Crash subway's"
 }
 {
 "classname" "pos_location"
 "origin" "1056 1152 40"
-"message" "Line B :  Crash subway's"
+"message" "Line B:  Crash subway's"
 }
 {
 "classname" "pos_location"
 "origin" "1056 1408 40"
-"message" "Line B :  Crash subway's"
+"message" "Line B:  Crash subway's"
 }
 {
 "classname" "pos_location"
 "origin" "1056 1728 40"
-"message" "Line B :  Crash subway's"
+"message" "Line B:  Crash subway's"
 }
 {
 "classname" "pos_location"
 "origin" "1056 1984 40"
-"message" "Line B :  Crash subway's"
+"message" "Line B:  Crash subway's"
 }
 {
 "classname" "pos_location"
 "origin" "1056 2304 40"
-"message" "Line B :  Tunnel beginning"
+"message" "Line B:  Tunnel beginning"
 }
 {
 "classname" "pos_location"
 "origin" "1056 2688 40"
-"message" "Line B :  Tunnel entrance"
+"message" "Line B:  Tunnel entrance"
 }
 {
 "classname" "pos_location"
 "origin" "1040 2880 8"
-"message" "Line B :  Tunnel entrance"
+"message" "Line B:  Tunnel entrance"
 }
 {
 "classname" "pos_location"
@@ -521,37 +521,37 @@
 {
 "classname" "pos_location"
 "origin" "-160 896 -232"
-"message" "Line C : Curved rooms"
+"message" "Line C: Curved rooms"
 }
 {
 "classname" "pos_location"
 "origin" "-896 128 -232"
-"message" "Line C : Curved rooms"
+"message" "Line C: Curved rooms"
 }
 {
 "classname" "pos_location"
 "origin" "-288 256 -232"
-"message" "Line C : Curved rooms"
+"message" "Line C: Curved rooms"
 }
 {
 "classname" "pos_location"
 "origin" "-448 416 -232"
-"message" "Line C : Curved rooms"
+"message" "Line C: Curved rooms"
 }
 {
 "classname" "pos_location"
 "origin" "-96 448 -168"
-"message" "Line C : Curved rooms"
+"message" "Line C: Curved rooms"
 }
 {
 "classname" "pos_location"
 "origin" "-896 -64 -232"
-"message" "Line C : Curved rooms"
+"message" "Line C: Curved rooms"
 }
 {
 "classname" "pos_location"
 "origin" "-512 -1600 40"
-"message" "Line B :  Tunnel end"
+"message" "Line B:  Tunnel end"
 }
 {
 "classname" "pos_location"
@@ -586,7 +586,7 @@
 {
 "classname" "pos_location"
 "origin" "1336 1816 -40"
-"message" "Line B :  Crash subway's"
+"message" "Line B:  Crash subway's"
 }
 {
 "classname" "pos_location"
@@ -601,42 +601,42 @@
 {
 "classname" "pos_location"
 "origin" "-896 -1088 -216"
-"message" "Line C : Terrorists hideout"
+"message" "Line C: Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-896 -1792 -216"
-"message" "Line C : Terrorists hideout"
+"message" "Line C: Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-896 -1472 -216"
-"message" "Line C : Terrorists hideout"
+"message" "Line C: Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-896 -2176 -216"
-"message" "Line C : Terrorists hideout"
+"message" "Line C: Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-704 -912 -216"
-"message" "Line C : Terrorists hideout"
+"message" "Line C: Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-1088 -704 -216"
-"message" "Terrorists hideout"
+"message" "Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-1088 -2048 -216"
-"message" "Terrorists hideout"
+"message" "Aliens hideout"
 }
 {
 "classname" "pos_location"
 "origin" "-960 -1600 -88"
-"message" "Line B :  Terrorists hideout"
+"message" "Line B: Aliens hideout"
 }
 {
 "classname" "env_afx_hurt"
