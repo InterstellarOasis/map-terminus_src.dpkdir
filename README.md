@@ -10,7 +10,7 @@ This map was named _“Metro”_ on Urban Terror, it is named _“Terminus”_ o
 Levelshot
 ---------
 
-![Levelshot](meta/terminus/terminus.png)
+![Levelshot](meta/terminus/terminus_web.jpg)
 
 
 How to
