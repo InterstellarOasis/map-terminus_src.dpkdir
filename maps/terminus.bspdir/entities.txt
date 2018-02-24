@@ -1,4 +1,5 @@
 {
+"message" "Terminus"
 "classname" "worldspawn"
 "_minlight" "5"
 "_lightmapscale" "0.5"
