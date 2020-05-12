@@ -1216,3 +1216,41 @@ textures/terminus/terminus_skybox
 	}
 
 }
+
+// Tiles
+
+textures/terminus/tiles02
+{
+	qer_editorImage textures/terminus/tiles02_d
+
+	{
+		diffuseMap  textures/terminus/tiles02_d
+		normalMap   textures/terminus/tiles02_n
+		normalFormat X Y Z
+		specularMap textures/terminus/tiles02_s
+	}
+}
+
+textures/terminus/tiles03
+{
+	qer_editorImage textures/terminus/tiles03_d
+
+	{
+		diffuseMap  textures/terminus/tiles03_d
+		normalMap   textures/terminus/tiles02_n
+		normalFormat X Y Z
+		specularMap textures/terminus/tiles02_s
+	}
+}
+
+textures/terminus/tiles05
+{
+	qer_editorImage textures/terminus/tiles05_d
+
+	{
+		diffuseMap  textures/terminus/tiles05_d
+		normalMap   textures/terminus/tiles02_n
+		normalFormat X Y Z
+		specularMap textures/terminus/tiles02_s
+	}
+}
