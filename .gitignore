@@ -1,1 +1,6 @@
+.paktrace/
 build/
+maps/*.bak
+maps/*.bsp
+maps/*.prt
+maps/*.srf
