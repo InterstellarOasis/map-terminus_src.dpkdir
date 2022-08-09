@@ -7,18 +7,6 @@
 //	*      Commons	*
 //	*********************************************************
 
-
-textures/common/skip
-{
-qer_nocarve
-qer_trans 0.30
-surfaceparm nodraw
-surfaceparm nonsolid
-surfaceparm skip
-surfaceparm structural
-surfaceparm trans
-}
-
 textures/terminus/ladderclip
 {
 	qer_editorimage textures/terminus/clipmetal
