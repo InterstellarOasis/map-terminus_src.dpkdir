@@ -671,22 +671,22 @@
 {
 "classname" "pos_player_spawn"
 "origin" "1688 3988 26"
-"yaw" "180"
+"angle" "180"
 }
 {
 "classname" "info_player_intermission"
 "origin" "43 -991 -403"
-"yaw" "139"
+"angle" "139"
 }
 {
 "classname" "pos_human_intermission"
 "origin" "1106 4582 71"
-"yaw" "-57"
+"angle" "-57"
 }
 {
 "classname" "team_human_spawn"
 "origin" "1441.62 4255.88 4.12"
-"yaw" "180"
+"angle" "180"
 }
 {
 "classname" "team_human_reactor"
@@ -699,35 +699,35 @@
 {
 "classname" "team_human_medistat"
 "origin" "1366.33 4183.82 0.12"
-"yaw" "90"
+"angle" "90"
 }
 {
 "classname" "team_human_mgturret"
 "origin" "1348.18 4352.56 20.12"
-"yaw" "180"
+"angle" "180"
 }
 {
 "classname" "pos_alien_intermission"
 "origin" "-2009 -773 -91"
-"yaw" "-97"
+"angle" "-97"
 }
 {
 "classname" "team_alien_spawn"
 "origin" "-1729.79 -1924.97 -96.87"
-"yaw" "-135"
+"angle" "-135"
 }
 {
 "classname" "team_alien_spawn"
 "origin" "-1522.87 -1914.97 -96.87"
-"yaw" "-135"
+"angle" "-135"
 }
 {
 "classname" "team_alien_overmind"
 "origin" "-2143.12 -950.20 -92.87"
-"yaw" "-135"
+"angle" "-135"
 }
 {
 "classname" "team_alien_acid_tube"
 "origin" "-1887.49 -988.03 -96.87"
-"yaw" "-45"
+"angle" "-45"
 }
